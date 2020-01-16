@@ -1,0 +1,196 @@
+#+TITLE:Sam's Agenda
+#+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
+
+* TODO Gym
+  SCHEDULED: <2020-01-17 Fri +1d>
+  :PROPERTIES:
+  :LOGGING:  DONE(@)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-16 Thu 06:51] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-01-15 Wed 06:32] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:31] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-01-10 Fri 07:08] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-01-09 Thu 07:29] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2020-01-08 Wed 07:09] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 07:07] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:05] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-01-05 Mon 09:05] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-01-04 Mon 09:04] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-01-03 Fri 07:37] \\
+    shoulders and legs
+  - State "DONE"       from "TODO"       [2019-12-23 Mon 06:20] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-22 Sun 18:39] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-21 Sat 11:41] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-20 Fri 11:14] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-19 Thu 10:34] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-18 Wed 14:22] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:36] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:00] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:00] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:00] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-13 Fri 06:24] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-12 Thu 06:36] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-11 Wed 07:10] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-10 Tue 07:28] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-09 Mon 08:48] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-08 Sun 09:38] \\
+    REST
+  - State "DONE"       from "TODO"       [2019-12-07 Sat 09:38] \\
+    chest and legs
+  - State "DONE"       from "TODO"       [2019-12-06 Fri 09:38] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-05 Thu 06:22] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-12-04 Wed 06:33] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-03 Tue 07:07] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-12-02 Mon 06:54] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-12-01 Sun 06:54] \\
+    REST
+  - State "DONE"       from "TODO"       [2019-12-30 Sun 08:40] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-29 Fri 06:34] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-11-28 Thu 14:15] \\
+    chest and legs
+  - State "DONE"       from "TODO"       [2019-11-27 Wed 08:40] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-26 Tue 06:34] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-11-25 Mon 14:15] \\
+    chest and legs
+  - State "DONE"       from "TODO"       [2019-11-24 Sat 18:35] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-23 Sat 18:35] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-11-22 Fri 06:50] \\
+    chest and legs
+  - State "DONE"       from "TODO"       [2019-11-21 Thu 06:45] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-20 Wed 06:45] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-11-19 Tue 06:17] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-11-18 Mon 09:20] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-17 Sun 06:33] \\
+    back and shoulders
+  - State "DONE"       from "TODO"       [2019-11-16 Sat 06:50] \\
+    legs and chest
+  - State "DONE"       from "TODO"       [2019-11-15 Fri 09:20] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-14 Thu 06:33] \\
+    back and chest
+  - State "DONE"       from "TODO"       [2019-11-13 Wed 06:50] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2019-11-12 Tue 08:53] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-11 Mon 06:32] \\
+    back and chest
+  - State "DONE"       from "TODO"       [2019-11-10 Sun 12:32] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2019-11-09 Sat 18:10] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-08 Fri 20:05] \\
+    chest and back
+  - State "DONE"       from "TODO"       [2019-11-07 Thu 18:54] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2019-11-06 Wed 20:45] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-06 Wed 09:56] \\
+    back and chest
+  - State "DONE"       from "TODO"       [2019-11-04 Mon 21:22] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2019-11-03 Sun 13:48] \\
+    arms
+  - State "DONE"       from "TODO"       [2019-11-02 Sat 20:08] \\
+    back and chest
+    
+* TODO Take out trash
+  SCHEDULED: <2020-01-21 Tue ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2019-11-26 Tue 06:34]
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 07:08]
+  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:36]
+  - State "DONE"       from "TODO"       [2019-12-03 Tue 06:37]
+  - State "DONE"       from "TODO"       [2019-11-26 Tue 06:34]
+
+* TODO Update ledger
+  SCHEDULED: <2020-01-21 Tue +1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-14 Tue 07:02]
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 07:02]
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 11:23]
+
+* TODO Wash sheets
+  SCHEDULED: <2020-01-25 Sat ++2w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2019-12-02 Mon 06:54]
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 11:42]
+  - State "DONE"       from "TODO"       [2019-12-14 Sat 10:01]
+  - State "DONE"       from "TODO"       [2019-12-02 Mon 06:54]
+
+* TODO Iron shirts
+  SCHEDULED: <2020-02-01 Sat ++3w>
+  :PROPERTIES:
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+
+* TODO Meal prep
+  SCHEDULED: <2020-01-18 Sat ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-14 Tue 06:32]
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:04]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:40]
+  - State "CANCELLED"  from "TODO"       [2019-12-22 Sun 18:38] \\
+    holiday
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:01]
+  - State "DONE"       from "TODO"       [2019-12-09 Mon 08:51]

@@ -1,6 +1,5 @@
 #+TITLE:Work Agenda
 #+TODO: TODO(t) ASLEEP(a!) WAIT(w@/!) | CANCELLED(c@) DONE(d) AWAKE(k!)
-#+TAGS: Journal(j)
 
 * TODO Standup Mon
   SCHEDULED: <2020-01-20 Mon 11:00 ++1w>
