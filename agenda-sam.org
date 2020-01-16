@@ -1,6 +1,66 @@
 #+TITLE:Sam's Agenda
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
+* TODO Take out trash
+  SCHEDULED: <2020-01-21 Tue ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2019-11-26 Tue 06:34]
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 07:08]
+  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:36]
+  - State "DONE"       from "TODO"       [2019-12-03 Tue 06:37]
+  - State "DONE"       from "TODO"       [2019-11-26 Tue 06:34]
+
+
+* TODO Update ledger
+  SCHEDULED: <2020-01-21 Tue +1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-14 Tue 07:02]
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 07:02]
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 11:23]
+
+
+* TODO Wash sheets
+  SCHEDULED: <2020-01-25 Sat ++2w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2019-12-02 Mon 06:54]
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 11:42]
+  - State "DONE"       from "TODO"       [2019-12-14 Sat 10:01]
+  - State "DONE"       from "TODO"       [2019-12-02 Mon 06:54]
+
+
+* TODO Iron shirts
+  SCHEDULED: <2020-02-01 Sat ++3w>
+  :PROPERTIES:
+  :LOGGING:  DONE(!)
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+
+
+* TODO Meal prep
+  SCHEDULED: <2020-01-18 Sat ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-14 Tue 06:32]
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
+  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:04]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:40]
+  - State "CANCELLED"  from "TODO"       [2019-12-22 Sun 18:38] \\
+    holiday
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:01]
+  - State "DONE"       from "TODO"       [2019-12-09 Mon 08:51]
+
+
 * TODO Gym
   SCHEDULED: <2020-01-17 Fri +1d>
   :PROPERTIES:
@@ -139,63 +199,3 @@
     arms
   - State "DONE"       from "TODO"       [2019-11-02 Sat 20:08] \\
     back and chest
-    
-
-* TODO Take out trash
-  SCHEDULED: <2020-01-21 Tue ++1w>
-  :PROPERTIES:
-  :LAST_REPEAT: [2019-11-26 Tue 06:34]
-  :LOGGING:  DONE(!)
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-07 Tue 07:08]
-  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:36]
-  - State "DONE"       from "TODO"       [2019-12-03 Tue 06:37]
-  - State "DONE"       from "TODO"       [2019-11-26 Tue 06:34]
-
-
-* TODO Update ledger
-  SCHEDULED: <2020-01-21 Tue +1w>
-  :PROPERTIES:
-  :LAST_REPEAT: [2020-01-14 Tue 07:02]
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 07:02]
-  - State "DONE"       from "TODO"       [2020-01-07 Tue 11:23]
-
-
-* TODO Wash sheets
-  SCHEDULED: <2020-01-25 Sat ++2w>
-  :PROPERTIES:
-  :LAST_REPEAT: [2019-12-02 Mon 06:54]
-  :LOGGING:  DONE(!)
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
-  - State "DONE"       from "TODO"       [2019-12-16 Mon 11:42]
-  - State "DONE"       from "TODO"       [2019-12-14 Sat 10:01]
-  - State "DONE"       from "TODO"       [2019-12-02 Mon 06:54]
-
-
-* TODO Iron shirts
-  SCHEDULED: <2020-02-01 Sat ++3w>
-  :PROPERTIES:
-  :LOGGING:  DONE(!)
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
-
-
-* TODO Meal prep
-  SCHEDULED: <2020-01-18 Sat ++1w>
-  :PROPERTIES:
-  :LAST_REPEAT: [2020-01-14 Tue 06:32]
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
-  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:04]
-  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:40]
-  - State "CANCELLED"  from "TODO"       [2019-12-22 Sun 18:38] \\
-    holiday
-  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:01]
-  - State "DONE"       from "TODO"       [2019-12-09 Mon 08:51]
