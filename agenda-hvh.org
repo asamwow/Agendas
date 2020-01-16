@@ -1,0 +1,274 @@
+#+TITLE:Work Agenda
+#+TODO: TODO(t) ASLEEP(a!) WAIT(w@/!) | CANCELLED(c@) DONE(d) AWAKE(k!)
+#+TAGS: Journal(j)
+
+* TODO Standup Mon
+  SCHEDULED: <2020-01-20 Mon 11:00 ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-16 Thu 07:22]
+  :END:
+  - State "DONE"       from "TODO"       [2020-01-16 Thu 07:22]
+  - State "DONE"       from "TODO"       [2020-01-06 Mon 14:16]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
+  - State "DONE"       from "TODO"       [2019-12-23 Mon 11:38]
+  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:35]
+  - State "DONE"       from "TODO"       [2019-12-10 Tue 10:56]
+  - State "DONE"       from "TODO"       [2019-12-02 Mon 14:17]
+  - State "DONE"       from "TODO"       [2019-11-25 Mon 14:15]
+  - State "DONE"       from "TODO"       [2019-11-18 Mon 10:50]
+  - State "DONE"       from "TODO"       [2019-11-11 Mon 14:25]
+  - State "DONE"       from "TODO"       [2019-11-05 Tue 14:35]
+* TODO Standup Tue
+  SCHEDULED: <2020-01-21 Tue 11:00 ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-16 Thu 07:23]
+  :END:
+  - State "DONE"       from "TODO"       [2020-01-16 Thu 07:23]
+  - State "DONE"       from "TODO"       [2020-01-07 Tue 10:42]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 06:21] \\
+    holiday
+  - State "DONE"       from "TODO"       [2019-12-17 Tue 13:35]
+  - State "DONE"       from "TODO"       [2019-12-10 Tue 10:56]
+  - State "DONE"       from "TODO"       [2019-12-03 Tue 12:46]
+  - State "DONE"       from "TODO"       [2019-11-27 Wed 06:29]
+  - State "DONE"       from "TODO"       [2019-11-19 Tue 13:00]
+  - State "DONE"       from "TODO"       [2019-11-12 Tue 11:15]
+  - State "DONE"       from "TODO"       [2019-11-05 Tue 14:37]
+* TODO Standup Wed
+  SCHEDULED: <2020-01-22 Wed 11:00 ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-16 Thu 07:23]
+  :END:
+  - State "DONE"       from "TODO"       [2020-01-16 Thu 07:23]
+  - State "DONE"       from "TODO"       [2020-01-08 Wed 10:44]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 06:21]
+  - State "DONE"       from "TODO"       [2019-12-18 Wed 14:23]
+  - State "DONE"       from "TODO"       [2019-12-12 Thu 11:49]
+  - State "DONE"       from "TODO"       [2019-12-04 Wed 11:23]
+  - State "DONE"       from "TODO"       [2019-11-27 Wed 13:49]
+  - State "DONE"       from "TODO"       [2019-11-20 Wed 11:38]
+  - State "DONE"       from "TODO"       [2019-11-13 Wed 11:18]
+  - State "DONE"       from "TODO"       [2019-11-06 Wed 11:11]
+* TODO Standup Thu
+  SCHEDULED: <2020-01-16 Thu 11:00 ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-09 Thu 11:53]
+  :END:
+  - State "DONE"       from "TODO"       [2020-01-09 Thu 11:53]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 06:21]
+  - State "DONE"       from "TODO"       [2019-12-19 Thu 10:34]
+  - State "DONE"       from "TODO"       [2019-12-12 Thu 11:49]
+  - State "DONE"       from "TODO"       [2019-12-05 Thu 12:01]
+  - State "DONE"       from "TODO"       [2019-11-27 Wed 13:49]
+  - State "DONE"       from "TODO"       [2019-11-21 Thu 12:08]
+  - State "DONE"       from "TODO"       [2019-11-14 Thu 10:55]
+  - State "DONE"       from "TODO"       [2019-11-07 Thu 12:24]
+* TODO Standup Fri
+  SCHEDULED: <2020-01-17 Fri 11:00 ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-10 Fri 10:57]
+  :END:
+
+
+  - State "DONE"       from "TODO"       [2020-01-10 Fri 10:57]
+  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:06]
+  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 06:21]
+  - State "DONE"       from "TODO"       [2019-12-20 Fri 11:13]
+  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:01]
+  - State "DONE"       from "TODO"       [2019-12-06 Fri 09:38]
+  - State "DONE"       from "TODO"       [2019-11-27 Wed 13:49]
+  - State "DONE"       from "TODO"       [2019-11-22 Fri 14:00]
+  - State "DONE"       from "TODO"       [2019-11-15 Fri 13:36]
+  - State "DONE"       from "TODO"       [2019-11-08 Fri 13:11]
+
+
+* TODO Analysts meeting
+  SCHEDULED: <2020-01-20 Mon ++2w>
+
+
+* 2019 - NOV
+
+** Week 1
+   :LOGBOOK:
+   CLOCK: [2019-11-08 Fri 06:40]--[2019-11-08 Wed 14:06] =>  7:26
+   CLOCK: [2019-11-07 Thu 07:30]--[2019-11-07 Wed 15:14] =>  7:44
+   CLOCK: [2019-11-06 Wed 07:29]--[2019-11-06 Wed 15:45] =>  8:16
+   CLOCK: [2019-11-05 Tue 13:47]--[2019-11-05 Tue 16:47] =>  3:00
+   CLOCK: [2019-11-05 Tue 07:20]--[2019-11-05 Tue 12:54] =>  5:34
+   CLOCK: [2019-11-04 Mon 12:00]--[2019-11-04 Mon 16:30] =>  4:30
+   CLOCK: [2019-11-04 Mon 08:30]--[2019-11-04 Mon 11:00] =>  2:30
+   :END:
+
+*** TODO Mark Meeting Mon
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-11-12 Tue 08:54]
+    :END:
+    - State "DONE"       from "TODO"       [2019-11-12 Tue 08:54]
+    - State "DONE"       from "TODO"       [2019-11-11 Mon 14:25]
+*** TODO Mark Meeting Tue
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-11-12 Tue 09:45]
+    :END:
+    - State "DONE"       from "TODO"       [2019-11-12 Tue 09:45]
+*** TODO Mark Meeting Wed
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-11-13 Wed 10:46]
+    :END:
+    - State "DONE"       from "TODO"       [2019-11-13 Wed 10:46]
+    - State "DONE"       from "TODO"       [2019-11-06 Wed 09:56]
+*** TODO Mark Meeting Thu
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-11-14 Thu 10:54]
+    :END:
+    - State "DONE"       from "TODO"       [2019-11-14 Thu 10:54]
+    - State "DONE"       from "TODO"       [2019-11-07 Thu 12:24]
+*** TODO Mark Meeting Fri
+    :PROPERTIES:
+    :LAST_REPEAT: [2019-11-15 Fri 13:39]
+    :END:
+
+
+    - State "DONE"       from "TODO"       [2019-11-15 Fri 13:39]
+    - State "DONE"       from "TODO"       [2019-11-08 Fri 13:11]
+
+
+*** DONE Code Meeting
+    SCHEDULED: <2019-11-06 Wed 13:30>
+    - State "DONE"       from "TODO"       [2019-11-06 Wed 14:33]
+
+
+*** DONE database meeting
+    SCHEDULED: <2019-11-07 Thu 14:00>
+    - State "DONE"       from "TODO"       [2019-11-07 Thu 14:01]
+
+
+** Week 2
+   :LOGBOOK:
+   CLOCK: [2019-11-15 Fri 06:15]--[2019-11-15 Fri 14:15] =>  8:00
+   CLOCK: [2019-11-14 Thu 06:15]--[2019-11-14 Wed 13:15] =>  7:00
+   CLOCK: [2019-11-13 Wed 06:30]--[2019-11-13 Wed 15:00] =>  8:30
+   CLOCK: [2019-11-12 Tue 06:30]--[2019-11-12 Tue 14:45] =>  8:15
+   CLOCK: [2019-11-11 Mon 06:15]--[2019-11-11 Mon 14:30] =>  8:15
+   :END:
+
+*** DONE analysts lunch meeting
+    SCHEDULED: <2019-11-13 Wed 13:00>
+    - State "DONE"       from "TODO"       [2019-11-14 Thu 06:10]
+
+** Week 3
+   :LOGBOOK:
+   CLOCK: [2019-11-22 Fri 06:30]--[2019-11-22 Thu 14:30] =>  8:00
+   CLOCK: [2019-11-21 Thu 06:15]--[2019-11-21 Thu 14:15] =>  8:00
+   CLOCK: [2019-11-20 Wed 06:15]--[2019-11-20 Wed 14:15] =>  8:00
+   CLOCK: [2019-11-19 Tue 06:00]--[2019-11-19 Tue 14:00] =>  8:00
+   CLOCK: [2019-11-18 Mon 06:30]--[2019-11-18 Mon 14:30] =>  8:00
+   :END:
+
+*** DONE analyst lunch
+    SCHEDULED: <2019-11-18 Mon 13:00>
+
+*** DONE IBC app development
+    SCHEDULED: <2019-11-22 Fri 13:00-14:00>
+
+*** DONE demonstrate merge request
+    SCHEDULED: <2019-11-22 Fri 11:30>
+
+** Week 4
+   :LOGBOOK:
+   CLOCK: [2019-11-27 Wed 06:00]--[2019-11-27 Wed 14:00] =>  8:00
+   CLOCK: [2019-11-26 Tue 06:15]--[2019-11-26 Tue 14:15] =>  8:00
+   CLOCK: [2019-11-25 Mon 06:30]--[2019-11-25 Mon 14:30] =>  8:00
+   :END:
+
+
+* 2019 - DEC
+
+*** DONE ibc app meetings
+
+** Week 1
+   :LOGBOOK:
+   CLOCK: [2019-12-06 Fri 06:30]--[2019-12-06 Fri 14:30] =>  8:00
+   CLOCK: [2019-12-05 Thu 06:15]--[2019-12-05 Thu 14:15] =>  8:00
+   CLOCK: [2019-12-04 Wed 06:30]--[2019-12-04 Wed 14:00] =>  7:30
+   CLOCK: [2019-12-03 Tue 06:30]--[2019-12-03 Tue 14:30] =>  8:00
+   CLOCK: [2019-12-02 Mon 06:30]--[2019-12-02 Mon 15:00] =>  8:30
+   :END:
+
+*** DONE IBC app development follow up
+    SCHEDULED: <2019-12-03 Tue 13:00>
+
+*** DONE resource allocation project assignments
+    SCHEDULED: <2019-12-03 11:30 Tue>
+
+*** DONE meet with mark
+    SCHEDULED: <2019-12-04 Wed>
+
+*** DONE Team Meeting
+    SCHEDULED: <2019-12-05 11:00 Thu>
+
+
+** Week 2
+   :LOGBOOK:
+   CLOCK: [2019-12-13 Fri 06:00]--[2019-12-13 Fri 14:00] =>  8:00
+   CLOCK: [2019-12-12 Thu 06:30]--[2019-12-12 Wed 14:30] =>  8:00
+   CLOCK: [2019-12-11 Wed 06:30]--[2019-12-11 Wed 14:45] =>  8:15
+   CLOCK: [2019-12-10 Tue 06:15]--[2019-12-10 Tue 13:30] =>  7:15
+   CLOCK: [2019-12-09 Mon 06:15]--[2019-12-09 Mon 14:45] =>  8:30
+   :END:
+
+*** DONE Company Dinner
+    SCHEDULED: <2019-12-10 Tue 11:45>
+
+Place: Glenhardie Country Club
+
+*** DONE 5th Annual Company Dinner
+   SCHEDULED: <2019-12-12 Thu 16:00>
+
+
+** Week 3
+   :LOGBOOK:
+   CLOCK: [2019-12-20 Fri 06:15]--[2019-12-20 Fri 15:00] =>  8:45
+   CLOCK: [2019-12-19 Thu 07:30]--[2019-12-19 Thu 15:15] =>  7:45
+   CLOCK: [2019-12-18 Tue 06:30]--[2019-12-18 Tue 14:30] =>  8:00
+   CLOCK: [2019-12-17 Tue 06:00]--[2019-12-17 Tue 14:00] =>  8:00
+   CLOCK: [2019-12-16 Mon 06:45]--[2019-12-16 Mon 14:15] =>  7:30
+   :END:
+
+*** DONE Analysts meeting and lunch
+    SCHEDULED: <2019-12-16 Mon 12:00>
+
+
+** Week 4
+   :LOGBOOK:
+   CLOCK: [2019-12-23 Mon 06:00]--[2019-12-23 Mon 15:00] =>  9:00
+   :END:
+
+
+* 2020 - Jan
+
+** Week 1
+   :LOGBOOK:
+   CLOCK: [2020-01-03 Fri 07:00]--[2020-01-03 Fri 15:00] =>  8:00
+   :END:
+
+
+** Week 2
+   :LOGBOOK:
+   CLOCK: [2020-01-10 Fri 06:45]--[2020-01-10 Fri 15:45] =>  9:00
+   CLOCK: [2020-01-09 Thu 07:00]--[2020-01-09 Thu 14:00] =>  7:00
+   CLOCK: [2020-01-08 Wed 06:15]--[2020-01-08 Thu 14:15] =>  8:00
+   CLOCK: [2020-01-07 Tue 07:00]--[2020-01-07 Wed 15:00] =>  8:00
+   CLOCK: [2020-01-06 Mon 07:00]--[2020-01-06 Mon 15:00] =>  8:00
+   :END:
+
+
+** Week 3
+   :LOGBOOK:
+   CLOCK: [2020-01-16 Thu 06:15]
+   CLOCK: [2020-01-15 Wed 06:00]--[2020-01-15 Wed 14:00] =>  8:00
+   CLOCK: [2020-01-14 Tue 06:30]--[2020-01-14 Tue 14:30] =>  8:00
+   CLOCK: [2020-01-13 Mon 06:30]--[2020-01-13 Mon 14:30] =>  8:00
+   :END:
