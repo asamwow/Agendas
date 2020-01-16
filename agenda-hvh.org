@@ -52,10 +52,11 @@
   - State "DONE"       from "TODO"       [2019-11-13 Wed 11:18]
   - State "DONE"       from "TODO"       [2019-11-06 Wed 11:11]
 * TODO Standup Thu
-  SCHEDULED: <2020-01-16 Thu 11:00 ++1w>
+  SCHEDULED: <2020-01-23 Thu 11:00 ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-09 Thu 11:53]
+  :LAST_REPEAT: [2020-01-16 Thu 14:05]
   :END:
+  - State "DONE"       from "TODO"       [2020-01-16 Thu 14:05]
   - State "DONE"       from "TODO"       [2020-01-09 Thu 11:53]
   - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
   - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 06:21]
@@ -267,6 +268,7 @@ Place: Glenhardie Country Club
 
 ** Week 3
    :LOGBOOK:
+   CLOCK: [2020-01-16 Thu 06:15]--[2020-01-16 Thu 14:15] =>  8:00
    CLOCK: [2020-01-15 Wed 06:00]--[2020-01-15 Wed 14:00] =>  8:00
    CLOCK: [2020-01-14 Tue 06:30]--[2020-01-14 Tue 14:30] =>  8:00
    CLOCK: [2020-01-13 Mon 06:30]--[2020-01-13 Mon 14:30] =>  8:00
