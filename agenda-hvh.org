@@ -2,10 +2,11 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Standup Mon
-  SCHEDULED: <2020-01-20 Mon 11:00 ++1w>
+  SCHEDULED: <2020-01-27 Mon 11:00 ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-16 Thu 14:04]
+  :LAST_REPEAT: [2020-01-21 Tue 07:39]
   :END:
+  - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
   - State "DONE"       from "TODO"       [2020-01-16 Thu 14:04]
   - State "DONE"       from "TODO"       [2020-01-06 Mon 14:16]
   - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
@@ -87,7 +88,12 @@
 
 
 * TODO Analysts meeting
-  SCHEDULED: <2020-01-20 Mon ++2w>
+  SCHEDULED: <2020-02-03 Mon ++2w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-01-21 Tue 07:39]
+  :END:
+
+  - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
 
 
 * 2019 - NOV
@@ -273,4 +279,11 @@ Place: Glenhardie Country Club
    CLOCK: [2020-01-15 Wed 06:00]--[2020-01-15 Wed 14:00] =>  8:00
    CLOCK: [2020-01-14 Tue 06:30]--[2020-01-14 Tue 14:30] =>  8:00
    CLOCK: [2020-01-13 Mon 06:30]--[2020-01-13 Mon 14:30] =>  8:00
+   :END:
+
+
+** Week 4
+   :LOGBOOK:
+   CLOCK: [2020-01-21 Tue 06:00]--[2020-01-21 Mon 14:00] =>  8:00
+   CLOCK: [2020-01-20 Mon 06:45]--[2020-01-20 Mon 15:15] =>  8:30
    :END:

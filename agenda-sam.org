@@ -2,12 +2,13 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Take out trash
-  SCHEDULED: <2020-01-21 Tue ++1w>
+  SCHEDULED: <2020-01-28 Tue ++1w>
   :PROPERTIES:
   :LAST_REPEAT: [2019-11-26 Tue 06:34]
   :LOGGING:  DONE(!)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
   - State "DONE"       from "TODO"       [2020-01-07 Tue 07:08]
   - State "DONE"       from "TODO"       [2019-12-17 Tue 13:36]
   - State "DONE"       from "TODO"       [2019-12-03 Tue 06:37]
@@ -15,11 +16,12 @@
 
 
 * TODO Update ledger
-  SCHEDULED: <2020-01-21 Tue +1w>
+  SCHEDULED: <2020-01-28 Tue +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-14 Tue 07:02]
+  :LAST_REPEAT: [2020-01-21 Tue 07:39]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
   - State "DONE"       from "TODO"       [2020-01-14 Tue 07:02]
   - State "DONE"       from "TODO"       [2020-01-07 Tue 11:23]
 
@@ -63,11 +65,15 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-01-19 Sun +1d>
+  SCHEDULED: <2020-01-22 Wed +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-01-20 Mon 07:07] \\
+    back and bi
   - State "DONE"       from "TODO"       [2020-01-19 Sun 16:47] \\
     legs and shoulders
   - State "DONE"       from "TODO"       [2020-01-17 Fri 08:23] \\
