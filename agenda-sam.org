@@ -65,11 +65,13 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-01-22 Wed +1d>
+  SCHEDULED: <2020-01-23 Thu +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-01-22 Wed 06:57] \\
+    legs and shoulders
   - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39] \\
     chest and tri
   - State "DONE"       from "TODO"       [2020-01-20 Mon 07:07] \\
