@@ -37,10 +37,11 @@
   - State "DONE"       from "TODO"       [2019-11-12 Tue 11:15]
   - State "DONE"       from "TODO"       [2019-11-05 Tue 14:37]
 * TODO Standup Wed
-  SCHEDULED: <2020-01-22 Wed 11:00 ++1w>
+  SCHEDULED: <2020-01-29 Wed 11:00 ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-16 Thu 14:05]
+  :LAST_REPEAT: [2020-01-22 Wed 11:36]
   :END:
+  - State "DONE"       from "TODO"       [2020-01-22 Wed 11:36]
   - State "DONE"       from "TODO"       [2020-01-16 Thu 14:05]
   - State "DONE"       from "TODO"       [2020-01-08 Wed 10:44]
   - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:38]
@@ -290,5 +291,8 @@ Place: Glenhardie Country Club
    CLOCK: [2020-01-20 Mon 06:45]--[2020-01-20 Mon 15:15] =>  8:30
    :END:
 
+*** TODO linux discussion
+    SCHEDULED: <2020-01-22 Wed 12:00>
+
 *** TODO roadmap meeting
-    SCHEDULED: <2020-01-24 Fri>
+    SCHEDULED: <2020-01-23 Thu 09:30>
