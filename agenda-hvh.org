@@ -12,10 +12,13 @@
   :END:
 
 * TODO Standup Tue
-  SCHEDULED: <2020-01-28 Tue 11:00 ++1w>
+  SCHEDULED: <2020-02-04 Tue 11:00 ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-22 Wed 06:57]
+  :LAST_REPEAT: [2020-01-28 Tue 11:22]
   :LOGGING:  NONE
+  :END:
+  :LOGBOOK:
+  CLOCK: [2020-01-28 Tue 10:57]--[2020-01-28 Tue 11:22] =>  0:25
   :END:
 
 * TODO Standup Wed
@@ -255,6 +258,8 @@ Place: Glenhardie Country Club
 
 *** Work on failing cypress analytics tests
     :LOGBOOK:
+    CLOCK: [2020-01-28 Tue 11:22]--[2020-01-28 Tue 14:45] =>  3:23
+    CLOCK: [2020-01-28 Tue 06:45]--[2020-01-28 Tue 10:57] =>  4:12
     CLOCK: [2020-01-27 Mon 11:17]--[2020-01-27 Mon 14:15] =>  2:58
     CLOCK: [2020-01-27 Mon 06:15]--[2020-01-27 Mon 10:59] =>  4:44
     :END:
