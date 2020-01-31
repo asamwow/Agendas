@@ -42,10 +42,13 @@
   :END:
 
 * TODO Standup Fri
-  SCHEDULED: <2020-01-31 Fri 11:00 ++1w>
+  SCHEDULED: <2020-02-07 Fri 11:00 ++1w>
   :PROPERTIES:
   :LAST_REPEAT: [2020-01-27 Mon 10:09]
   :LOGGING:  NONE
+  :END:
+  :LOGBOOK:
+  CLOCK: [2020-01-31 Fri 11:00]--[2020-01-31 Fri 11:20] =>  0:20
   :END:
 
 
@@ -260,11 +263,26 @@ Place: Glenhardie Country Club
 ** Week 5
 
 #+BEGIN: clocktable :block thisweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-01-31 Fri 13:28], for week 2020-W05.
+| Headline                          |       Time |          |         |
+|-----------------------------------+------------+----------+---------|
+| *Total time*                      | *1d 16:00* |          |         |
+|-----------------------------------+------------+----------+---------|
+| Standup Mon                       |       0:18 |          |         |
+| Standup Tue                       |       0:25 |          |         |
+| Standup Wed                       |       0:23 |          |         |
+| Standup Thu                       |       0:15 |          |         |
+| Standup Fri                       |       0:20 |          |         |
+| 2020 - Jan                        |   1d 14:19 |          |         |
+| \_  Week 5                        |            | 1d 14:19 |         |
+| \_    cypress analytics tests     |            |          | 1d 9:09 |
+| \_    export excel from amazon S3 |            |          |    5:10 |
 #+END:
 
-*** Work on failing cypress analytics tests
+*** TODO cypress analytics tests
     :LOGBOOK:
-    CLOCK: [2020-01-30 Thu 11:15]--[2020-01-30 Thu 14:30] =>  3:15
+    CLOCK: [2020-01-31 Fri 11:20]--[2020-01-31 Fri 14:30] =>  3:10
+    CLOCK: [2020-01-31 Fri 08:25]--[2020-01-31 Fri 11:00] =>  2:35
     CLOCK: [2020-01-30 Thu 06:30]--[2020-01-30 Thu 11:00] =>  5:12
     CLOCK: [2020-01-29 Wed 11:23]--[2020-01-29 Wed 14:30] =>  3:07
     CLOCK: [2020-01-29 Wed 06:30]--[2020-01-29 Wed 11:00] =>  4:30
@@ -272,4 +290,10 @@ Place: Glenhardie Country Club
     CLOCK: [2020-01-28 Tue 06:45]--[2020-01-28 Tue 10:57] =>  4:12
     CLOCK: [2020-01-27 Mon 11:17]--[2020-01-27 Mon 14:15] =>  2:58
     CLOCK: [2020-01-27 Mon 06:15]--[2020-01-27 Mon 10:59] =>  4:44
+    :END:
+
+*** DONE export excel from amazon S3
+    :LOGBOOK:
+    CLOCK: [2020-01-31 Fri 06:30]--[2020-01-31 Fri 08:25] =>  1:55
+    CLOCK: [2020-01-30 Thu 11:15]--[2020-01-30 Thu 14:30] =>  3:15
     :END:
