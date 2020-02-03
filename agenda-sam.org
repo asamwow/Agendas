@@ -78,11 +78,17 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-01-31 Fri +1d>
+  SCHEDULED: <2020-02-03 Mon +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-02 Sun 07:18] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-02-02 Sun 07:18] \\
+    lifetime onboarding personal training
+  - State "DONE"       from "TODO"       [2020-01-31 Fri 17:22] \\
+    legs and shoulders
   - State "DONE"       from "TODO"       [2020-01-30 Thu 07:32] \\
     chest and tri
   - State "DONE"       from "TODO"       [2020-01-29 Wed 06:55] \\
