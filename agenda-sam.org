@@ -2,12 +2,13 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Take out trash
-  SCHEDULED: <2020-02-04 Tue ++1w>
+  SCHEDULED: <2020-02-11 Tue ++1w>
   :PROPERTIES:
   :LAST_REPEAT: [2019-11-26 Tue 06:34]
   :LOGGING:  DONE(!)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
   - State "DONE"       from "TODO"       [2020-01-28 Tue 10:19]
   - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
   - State "DONE"       from "TODO"       [2020-01-07 Tue 07:08]
@@ -17,11 +18,12 @@
 
 
 * TODO Update ledger
-  SCHEDULED: <2020-02-04 Tue +1w>
+  SCHEDULED: <2020-02-11 Tue +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-28 Tue 10:19]
+  :LAST_REPEAT: [2020-02-04 Tue 10:04]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 10:04]
   - State "DONE"       from "TODO"       [2020-01-28 Tue 10:19]
   - State "DONE"       from "TODO"       [2020-01-21 Tue 07:39]
   - State "DONE"       from "TODO"       [2020-01-14 Tue 07:02]
@@ -43,20 +45,22 @@
 
 
 * TODO Iron shirts
-  SCHEDULED: <2020-02-01 Sat ++3w>
+  SCHEDULED: <2020-02-22 Sat ++3w>
   :PROPERTIES:
   :LOGGING:  DONE(!)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
   - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
 
 
 * TODO Meal prep
-  SCHEDULED: <2020-02-01 Sat ++1w>
+  SCHEDULED: <2020-02-08 Sat ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-01-27 Mon 10:11]
+  :LAST_REPEAT: [2020-02-04 Tue 07:29]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
   - State "DONE"       from "TODO"       [2020-01-27 Mon 10:11]
   - State "DONE"       from "TODO"       [2020-01-19 Sun 16:47]
   - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
@@ -69,7 +73,7 @@
 
 
 * TODO Student loan payment
-  SCHEDULED: <2020-02-27 Thu +1m>
+  SCHEDULED: <2020-02-26 Thu +1m>
   :PROPERTIES:
   :LAST_REPEAT: [2020-01-27 Mon 10:31]
   :END:
@@ -78,11 +82,15 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-02-03 Mon +1d>
+  SCHEDULED: <2020-02-05 Wed +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29] \\
+    chest and tri
   - State "DONE"       from "TODO"       [2020-02-02 Sun 07:18] \\
     back and bi
   - State "DONE"       from "TODO"       [2020-02-02 Sun 07:18] \\
