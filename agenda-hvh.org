@@ -37,9 +37,9 @@
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-02-06 Thu 11:00 ++1w>
+   SCHEDULED: <2020-02-13 Thu 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-01-27 Mon 10:09]
+   :LAST_REPEAT: [2020-02-07 Fri 12:54]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
@@ -47,13 +47,14 @@
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-02-07 Fri 11:00 ++1w>
+   SCHEDULED: <2020-02-14 Fri 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-01-27 Mon 10:09]
+   :LAST_REPEAT: [2020-02-07 Fri 12:54]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
    CLOCK: [2020-01-31 Fri 11:00]--[2020-01-31 Fri 11:20] =>  0:20
+   CLOCK: [2020-02-07 Fri 11:00]--[2020-02-07 Fri 11:15] =>  0:15
    :END:
 
 
@@ -311,32 +312,35 @@
 ** Week 1
 
    #+BEGIN: clocktable :block thisweek :maxlevel 3
-   #+CAPTION: Clock summary at [2020-02-05 Wed 15:37], for week 2020-W06.
-   | Headline                                  |    Time |       |       |
-   |-------------------------------------------+---------+-------+-------|
-   | *Total time*                              | *23:30* |       |       |
-   |-------------------------------------------+---------+-------+-------|
-   | Recurring Meetings                        |    2:27 |       |       |
-   | \_  Standup Mon                           |         |  0:26 |       |
-   | \_  Standup Tue                           |         |  0:18 |       |
-   | \_  Standup Wed                           |         |  0:28 |       |
-   | \_  Analysts meeting                      |         |  1:15 |       |
-   | 2020 - Feb                                |   21:03 |       |       |
-   | \_  Week 1                                |         | 21:03 |       |
-   | \_    revise cost of care analytic        |         |       |  2:00 |
-   | \_    investigate failed cohort           |         |       |  3:29 |
-   | \_    ivestigate cypress max listeners... |         |       |  5:04 |
-   | \_    failing cypress tests               |         |       | 10:30 |
+   #+CAPTION: Clock summary at [2020-02-07 Fri 14:13], for week 2020-W06.
+   | Headline                                  | Time       |          |       |
+   |-------------------------------------------+------------+----------+-------|
+   | *Total time*                              | *1d 16:00* |          |       |
+   |-------------------------------------------+------------+----------+-------|
+   | Recurring Meetings                        | 2:42       |          |       |
+   | \_  Standup Mon                           |            |     0:26 |       |
+   | \_  Standup Tue                           |            |     0:18 |       |
+   | \_  Standup Wed                           |            |     0:28 |       |
+   | \_  Standup Fri                           |            |     0:15 |       |
+   | \_  Analysts meeting                      |            |     1:15 |       |
+   | 2020 - Feb                                | 1d 13:18   |          |       |
+   | \_  Week 1                                |            | 1d 13:18 |       |
+   | \_    revise cost of care analytic        |            |          |  2:00 |
+   | \_    investigate failed cohort           |            |          |  3:53 |
+   | \_    ivestigate cypress max listeners... |            |          |  5:04 |
+   | \_    failing cypress tests               |            |          | 17:51 |
+   | \_    Sick                                |            |          |  8:30 |
    #+END:
 
 *** DONE revise cost of care analytic
     :LOGBOOK:
     CLOCK: [2020-02-03 Mon 06:30]--[2020-02-03 Mon 08:30] =>  2:30
     :END:
-*** TODO investigate failed cohort
+*** DONE investigate failed cohort
     :LOGBOOK:
     CLOCK: [2020-02-04 Tue 11:31]--[2020-02-04 Tue 14:00] =>  2:29
     CLOCK: [2020-02-03 Mon 08:30]--[2020-02-03 Mon 09:30] =>  1:00
+    CLOCK: [2020-02-05 Wed 08:56]--[2020-02-05 Wed 09:20] =>  0:24
     :END:
 *** DONE ivestigate cypress max listeners exceeded
     :LOGBOOK:
@@ -348,12 +352,22 @@
     :END:
 *** TODO failing cypress tests
     :LOGBOOK:
+    CLOCK: [2020-02-07 Fri 11:15]--[2020-02-07 Fri 14:30] =>  3:15
+    CLOCK: [2020-02-07 Fri 06:30]--[2020-02-07 Fri 11:00] =>  4:30
     CLOCK: [2020-02-05 Wed 14:00]--[2020-02-05 Wed 16:00] =>  2:00
     CLOCK: [2020-02-05 Wed 11:23]--[2020-02-05 Wed 12:30] =>  1:07
-    CLOCK: [2020-02-05 Wed 07:14]--[2020-02-05 Wed 10:55] =>  3:41
+    CLOCK: [2020-02-05 Wed 07:14]--[2020-02-05 Wed 08:56] =>  1:42
+    CLOCK: [2020-02-05 Wed 09:20]--[2020-02-05 Wed 10:55] =>  1:35
     CLOCK: [2020-02-04 Tue 11:16]--[2020-02-04 Tue 11:31] =>  0:15
     CLOCK: [2020-02-04 Tue 07:30]--[2020-02-04 Tue 10:57] =>  3:27
     :END:
     MI still failed after adding 1000 to spop
-*** TODO linux discussion
+*** CANCELLED linux discussion
     SCHEDULED: <2020-02-06 Thu 10:30>
+
+    - State "CANCELLED"  from "TODO"       [2020-02-07 Fri 07:02] \\
+      was sick
+*** Sick
+    :LOGBOOK:
+    CLOCK: [2020-02-06 Thu 06:00]--[2020-02-06 Thu 14:30] =>  8:30
+    :END:
