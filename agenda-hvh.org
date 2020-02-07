@@ -311,25 +311,7 @@
 
 ** Week 1
 
-   #+BEGIN: clocktable :block thisweek :maxlevel 3
-   #+CAPTION: Clock summary at [2020-02-07 Fri 14:13], for week 2020-W06.
-   | Headline                                  | Time       |          |       |
-   |-------------------------------------------+------------+----------+-------|
-   | *Total time*                              | *1d 16:00* |          |       |
-   |-------------------------------------------+------------+----------+-------|
-   | Recurring Meetings                        | 2:42       |          |       |
-   | \_  Standup Mon                           |            |     0:26 |       |
-   | \_  Standup Tue                           |            |     0:18 |       |
-   | \_  Standup Wed                           |            |     0:28 |       |
-   | \_  Standup Fri                           |            |     0:15 |       |
-   | \_  Analysts meeting                      |            |     1:15 |       |
-   | 2020 - Feb                                | 1d 13:18   |          |       |
-   | \_  Week 1                                |            | 1d 13:18 |       |
-   | \_    revise cost of care analytic        |            |          |  2:00 |
-   | \_    investigate failed cohort           |            |          |  3:53 |
-   | \_    ivestigate cypress max listeners... |            |          |  5:04 |
-   | \_    failing cypress tests               |            |          | 17:51 |
-   | \_    Sick                                |            |          |  8:30 |
+   #+BEGIN: clocktable :block thisweek :step day :maxlevel 3
    #+END:
 
 *** DONE revise cost of care analytic
