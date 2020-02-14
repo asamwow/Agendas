@@ -1,58 +1,63 @@
 #+TITLE:Work Agenda
-#+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
+#+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d) OUT(o)
 
 * Recurring Meetings
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-02-10 Mon 11:00 ++1w>
+   SCHEDULED: <2020-02-17 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-04 Tue 07:31]
+   :LAST_REPEAT: [2020-02-10 Mon 11:01]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-10 Mon 11:01]--[2020-02-10 Mon 11:21] =>  0:20
    CLOCK: [2020-01-27 Mon 10:59]--[2020-01-27 Mon 11:17] =>  0:18
    CLOCK: [2020-02-03 Mon 10:59]--[2020-02-03 Mon 11:25] =>  0:26
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-02-11 Tue 11:00 ++1w>
+   SCHEDULED: <2020-02-18 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-04 Tue 10:58]
+   :LAST_REPEAT: [2020-02-12 Wed 09:07]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-11 Tue 11:00]--[2020-02-11 Tue 11:20] =>  0:20
    CLOCK: [2020-02-04 Tue 10:58]--[2020-02-04 Tue 11:16] =>  0:18
    CLOCK: [2020-01-28 Tue 10:57]--[2020-01-28 Tue 11:22] =>  0:25
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-02-12 Wed 11:00 ++1w>
+   SCHEDULED: <2020-02-19 Wed 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-05 Wed 10:52]
+   :LAST_REPEAT: [2020-02-12 Wed 11:22]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-12 Wed 10:59]--[2020-02-12 Wed 11:22] =>  0:23
    CLOCK: [2020-02-05 Wed 10:55]--[2020-02-05 Wed 11:23] =>  0:28
    CLOCK: [2020-01-29 Wed 11:00]--[2020-01-29 Wed 11:23] =>  0:23
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-02-13 Thu 11:00 ++1w>
+   SCHEDULED: <2020-02-20 Thu 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-07 Fri 12:54]
+   :LAST_REPEAT: [2020-02-13 Thu 13:54]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-13 Thu 10:55]--[2020-02-13 Thu 11:20] =>  0:25
    CLOCK: [2020-01-30 Thu 11:00]--[2020-01-30 Thu 11:15] =>  0:15
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-02-14 Fri 11:00 ++1w>
+   SCHEDULED: <2020-02-21 Fri 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-07 Fri 12:54]
+   :LAST_REPEAT: [2020-02-14 Fri 11:18]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-14 Fri 11:00]--[2020-02-14 Fri 11:20] =>  0:20
    CLOCK: [2020-01-31 Fri 11:00]--[2020-01-31 Fri 11:20] =>  0:20
    CLOCK: [2020-02-07 Fri 11:00]--[2020-02-07 Fri 11:15] =>  0:15
    :END:
@@ -332,7 +337,7 @@
     CLOCK: [2020-02-03 Mon 11:25]--[2020-02-03 Mon 12:30] =>  1:05
     CLOCK: [2020-02-03 Mon 13:45]--[2020-02-03 Mon 14:00] =>  0:15
     :END:
-*** TODO failing cypress tests
+*** OUT failing cypress tests
     :LOGBOOK:
     CLOCK: [2020-02-07 Fri 11:15]--[2020-02-07 Fri 14:30] =>  3:15
     CLOCK: [2020-02-07 Fri 06:30]--[2020-02-07 Fri 11:00] =>  4:30
@@ -353,3 +358,100 @@
     :LOGBOOK:
     CLOCK: [2020-02-06 Thu 06:00]--[2020-02-06 Thu 14:30] =>  8:30
     :END:
+
+** Week 2
+
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-02-14 Fri 13:02], for week 2020-W07.
+   | Headline                                       | Time       |          |       |
+   |------------------------------------------------+------------+----------+-------|
+   | *Total time*                                   | *1d 16:00* |          |       |
+   |------------------------------------------------+------------+----------+-------|
+   | Recurring Meetings                             | 1:48       |          |       |
+   | \_  Standup Mon                                |            |     0:20 |       |
+   | \_  Standup Tue                                |            |     0:20 |       |
+   | \_  Standup Wed                                |            |     0:23 |       |
+   | \_  Standup Thu                                |            |     0:25 |       |
+   | \_  Standup Fri                                |            |     0:20 |       |
+   | 2020 - Feb                                     | 1d 14:12   |          |       |
+   | \_  Week 2                                     |            | 1d 14:12 |       |
+   | \_    failing cypress tests                    |            |          | 10:10 |
+   | \_    segment population 0 while generating    |            |          | 21:37 |
+   | \_    culture club                             |            |          |  0:40 |
+   | \_    analyst meeting, collaboration...        |            |          |  1:04 |
+   | \_    moving to snowflake discussion           |            |          |  0:51 |
+   | \_    linux discussion                         |            |          |  0:20 |
+   | \_    moving platform to production...         |            |          |  0:45 |
+   | \_    investigate failed cost of care analytic |            |          |  1:45 |
+   | \_    Holiday                                  |            |          |  1:00 |
+   #+END:
+
+*** TODO failing cypress tests
+    :LOGBOOK:
+    CLOCK: [2020-02-11 Tue 11:20]--[2020-02-11 Tue 11:50] =>  0:35
+    CLOCK: [2020-02-11 Tue 08:30]--[2020-02-11 Tue 11:00] =>  0:20
+    CLOCK: [2020-02-10 Mon 11:21]--[2020-02-10 Mon 15:30] =>  4:09
+    CLOCK: [2020-02-10 Mon 08:00]--[2020-02-10 Mon 11:01] =>  3:01
+    :END:
+
+*** DONE segment population 0 while generating
+    :LOGBOOK:
+    CLOCK: [2020-02-14 Fri 11:20]--[2020-02-14 Fri 12:00] =>  0:40
+    CLOCK: [2020-02-14 Fri 10:20]--[2020-02-14 Fri 11:00] =>  0:40
+    CLOCK: [2020-02-14 Fri 06:30]--[2020-02-14 Fri 10:00] =>  3:30
+    CLOCK: [2020-02-13 Thu 13:53]--[2020-02-13 Thu 15:30] =>  1:37
+    CLOCK: [2020-02-13 Thu 11:20]--[2020-02-13 Thu 13:02] =>  1:42
+    CLOCK: [2020-02-13 Thu 07:30]--[2020-02-13 Thu 10:55] =>  3:25
+    CLOCK: [2020-02-12 Wed 15:04]--[2020-02-12 Wed 16:30] =>  1:26
+    CLOCK: [2020-02-12 Wed 11:22]--[2020-02-12 Wed 14:00] =>  2:38
+    CLOCK: [2020-02-12 Wed 10:40]--[2020-02-12 Wed 10:59] =>  0:19
+    CLOCK: [2020-02-12 Wed 08:30]--[2020-02-12 Wed 10:00] =>  2:29
+    CLOCK: [2020-02-11 Tue 11:50]--[2020-02-11 Tue 16:00] =>  4:10
+    :END:
+
+*** DONE culture club
+    SCHEDULED: <2020-02-12 Wed 10:00>
+    :LOGBOOK:
+    CLOCK: [2020-02-12 Wed 10:00]--[2020-02-12 Wed 10:40] =>  0:40
+    :END:
+
+*** DONE analyst meeting, collaboration duscussion
+    SCHEDULED: <2020-02-12 Wed 14:00>
+    :LOGBOOK:
+    CLOCK: [2020-02-12 Wed 14:00]--[2020-02-12 Wed 15:04] =>  1:04
+    :END:
+
+*** DONE moving to snowflake discussion
+    SCHEDULED: <2020-02-13 Thu 13:00>
+    :LOGBOOK:
+    CLOCK: [2020-02-13 Thu 13:02]--[2020-02-13 Thu 13:53] =>  0:51
+    :END:
+
+*** DONE linux discussion
+    SCHEDULED: <2020-02-14 Fri 10:00>
+    :LOGBOOK:
+    CLOCK: [2020-02-14 Fri 10:00]--[2020-02-14 Fri 10:20] =>  0:20
+    :END:
+
+*** DONE moving platform to production  discussion
+    SCHEDULED: <2020-02-14 Fri 12:00>
+    :LOGBOOK:
+    CLOCK: [2020-02-14 Fri 12:00]--[2020-02-14 Fri 12:45] =>  0:45
+    :END:
+
+*** TODO investigate failed cost of care analytic
+    :LOGBOOK:
+    CLOCK: [2020-02-14 Fri 12:45]--[2020-02-14 Fri 14:30] =>  1:45
+    :END:
+
+*** Holiday
+    :LOGBOOK:
+    CLOCK: [2020-02-14 Fri 14:30]--[2020-02-14 Fri 15:30] =>  1:00
+    :END:
+
+
+** Week 4
+
+*** TODO happy hour
+    SCHEDULED: <2020-02-27 Thu 17:30>
+    Yard House - 160 N Gulph Rd, King of Prussia, PA 19406
