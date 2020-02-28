@@ -2,11 +2,12 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Update ledger
-  SCHEDULED: <2020-02-18 Tue +1w>
+  SCHEDULED: <2020-02-25 Tue +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-02-11 Tue 11:32]
+  :LAST_REPEAT: [2020-02-19 Wed 09:12]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-19 Wed 09:12]
   - State "DONE"       from "TODO"       [2020-02-11 Tue 11:32]
   - State "DONE"       from "TODO"       [2020-02-04 Tue 10:04]
   - State "DONE"       from "TODO"       [2020-01-28 Tue 10:19]
@@ -16,12 +17,13 @@
 
 
 * TODO Wash sheets
-  SCHEDULED: <2020-02-22 Sat ++2w>
+  SCHEDULED: <2020-03-07 Sat ++2w>
   :PROPERTIES:
   :LAST_REPEAT: [2019-12-02 Mon 06:54]
   :LOGGING:  DONE(!)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-25 Tue 06:17]
   - State "DONE"       from "TODO"       [2020-02-10 Mon 08:54]
   - State "DONE"       from "TODO"       [2020-01-27 Mon 10:11]
   - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
@@ -31,7 +33,7 @@
 
 
 * TODO Iron shirts
-  SCHEDULED: <2020-02-22 Sat ++3w>
+  SCHEDULED: <2020-02-29 Sat ++3w>
   :PROPERTIES:
   :LOGGING:  DONE(!)
   :END:
@@ -41,11 +43,13 @@
 
 
 * TODO Meal prep
-  SCHEDULED: <2020-02-15 Sat ++1w>
+  SCHEDULED: <2020-02-29 Sat ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-02-12 Wed 09:07]
+  :LAST_REPEAT: [2020-02-24 Mon 10:11]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-24 Mon 10:11]
+  - State "DONE"       from "TODO"       [2020-02-17 Mon 08:59]
   - State "DONE"       from "TODO"       [2020-02-12 Wed 09:07]
   - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
   - State "DONE"       from "TODO"       [2020-01-27 Mon 10:11]
@@ -69,11 +73,31 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-02-14 Fri +1d>
+  SCHEDULED: <2020-02-29 Sat +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-02-28 Fri 11:34] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-02-28 Fri 07:23] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-02-26 Wed 10:55] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-02-25 Tue 11:01] \\
+    legs and shoulders
+  - State "DONE"       from "TODO"       [2020-02-24 Tue 06:17] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-02-19 Wed 10:55] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-02-19 Wed 10:55] \\
+    basketball
+  - State "DONE"       from "TODO"       [2020-02-17 Mon 08:59] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-02-17 Mon 08:58] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-02-17 Mon 08:58] \\
+    legs and shoulders
   - State "DONE"       from "TODO"       [2020-02-13 Thu 07:53] \\
     back and bi
   - State "DONE"       from "TODO"       [2020-02-12 Wed 09:07] \\

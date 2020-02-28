@@ -4,73 +4,95 @@
 * Recurring Meetings
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-02-17 Mon 11:00 ++1w>
+   SCHEDULED: <2020-03-02 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-10 Mon 11:01]
+   :LAST_REPEAT: [2020-02-24 Mon 13:09]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-24 Mon 12:00]--[2020-02-24 Mon 12:20] =>  0:20
+   CLOCK: [2020-02-17 Mon 10:58]--[2020-02-17 Mon 11:30] =>  0:32
    CLOCK: [2020-02-10 Mon 11:01]--[2020-02-10 Mon 11:21] =>  0:20
    CLOCK: [2020-01-27 Mon 10:59]--[2020-01-27 Mon 11:17] =>  0:18
    CLOCK: [2020-02-03 Mon 10:59]--[2020-02-03 Mon 11:25] =>  0:26
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-02-18 Tue 11:00 ++1w>
+   SCHEDULED: <2020-03-03 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-12 Wed 09:07]
+   :LAST_REPEAT: [2020-02-25 Tue 11:13]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-25 Tue 11:00]--[2020-02-25 Tue 11:13] =>  0:13
+   CLOCK: [2020-02-18 Tue 11:00]--[2020-02-18 Tue 11:40] =>  0:40
    CLOCK: [2020-02-11 Tue 11:00]--[2020-02-11 Tue 11:20] =>  0:20
    CLOCK: [2020-02-04 Tue 10:58]--[2020-02-04 Tue 11:16] =>  0:18
    CLOCK: [2020-01-28 Tue 10:57]--[2020-01-28 Tue 11:22] =>  0:25
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-02-19 Wed 11:00 ++1w>
+   SCHEDULED: <2020-03-04 Wed 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-12 Wed 11:22]
+   :LAST_REPEAT: [2020-02-26 Wed 10:56]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-26 Wed 11:00]--[2020-02-26 Wed 11:20] =>  0:20
+   CLOCK: [2020-02-19 Wed 10:58]--[2020-02-19 Wed 11:32] =>  0:34
    CLOCK: [2020-02-12 Wed 10:59]--[2020-02-12 Wed 11:22] =>  0:23
    CLOCK: [2020-02-05 Wed 10:55]--[2020-02-05 Wed 11:23] =>  0:28
    CLOCK: [2020-01-29 Wed 11:00]--[2020-01-29 Wed 11:23] =>  0:23
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-02-20 Thu 11:00 ++1w>
+   SCHEDULED: <2020-03-05 Thu 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-13 Thu 13:54]
+   :LAST_REPEAT: [2020-02-27 Thu 11:32]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-27 Thu 11:00]--[2020-02-27 Thu 11:20] =>  0:20
+   CLOCK: [2020-02-20 Thu 11:00]--[2020-02-20 Thu 11:08] =>  0:08
    CLOCK: [2020-02-13 Thu 10:55]--[2020-02-13 Thu 11:20] =>  0:25
    CLOCK: [2020-01-30 Thu 11:00]--[2020-01-30 Thu 11:15] =>  0:15
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-02-21 Fri 11:00 ++1w>
+   SCHEDULED: <2020-03-06 Fri 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-14 Fri 11:18]
+   :LAST_REPEAT: [2020-02-28 Fri 11:34]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-28 Fri 10:57]--[2020-02-28 Fri 11:34] =>  0:37
+   CLOCK: [2020-02-21 Fri 10:55]--[2020-02-21 Fri 11:45] =>  0:50
    CLOCK: [2020-02-14 Fri 11:00]--[2020-02-14 Fri 11:20] =>  0:20
    CLOCK: [2020-01-31 Fri 11:00]--[2020-01-31 Fri 11:20] =>  0:20
    CLOCK: [2020-02-07 Fri 11:00]--[2020-02-07 Fri 11:15] =>  0:15
    :END:
 
 
-** TODO Analysts meeting
-   SCHEDULED: <2020-02-17 Mon ++2w>
+** TODO Bi-weekly Analysts meeting
+   SCHEDULED: <2020-03-02 Mon ++2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-04 Tue 07:33]
+   :LAST_REPEAT: [2020-02-18 Tue 08:12]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-17 Mon 11:58]--[2020-02-17 Tue 13:30] =>  1:32
    CLOCK: [2020-02-03 Mon 12:30]--[2020-02-03 Mon 13:45] =>  1:15
+   :END:
+
+** TODO weekly analyst meeting
+   SCHEDULED: <2020-03-05 Thu ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-02-28 Fri 07:22]
+   :END:
+   - State "DONE"       from "TODO"       [2020-02-28 Fri 07:22]
+   :LOGBOOK:
+   CLOCK: [2020-02-27 Thu 10:30]--[2020-02-27 Thu 11:00] =>  0:30
+   CLOCK: [2020-02-21 Fri 13:30]--[2020-02-21 Fri 14:30] =>  1:00
    :END:
 
 
@@ -386,7 +408,7 @@
    | \_    Holiday                                  |            |          |  1:00 |
    #+END:
 
-*** TODO failing cypress tests
+*** OUT failing cypress tests
     :LOGBOOK:
     CLOCK: [2020-02-11 Tue 11:20]--[2020-02-11 Tue 11:50] =>  0:35
     CLOCK: [2020-02-11 Tue 08:30]--[2020-02-11 Tue 11:00] =>  0:20
@@ -439,7 +461,7 @@
     CLOCK: [2020-02-14 Fri 12:00]--[2020-02-14 Fri 12:45] =>  0:45
     :END:
 
-*** TODO investigate failed cost of care analytic
+*** OUT investigate failed cost of care analytic
     :LOGBOOK:
     CLOCK: [2020-02-14 Fri 12:45]--[2020-02-14 Fri 14:30] =>  1:45
     :END:
@@ -449,9 +471,94 @@
     CLOCK: [2020-02-14 Fri 14:30]--[2020-02-14 Fri 15:30] =>  1:00
     :END:
 
+** Week 3
+
+*** OUT cohort runs / versioning
+    :LOGBOOK:
+    CLOCK: [2020-02-21 Fri 14:30]--[2020-02-21 Fri 15:30] =>  1:00
+    CLOCK: [2020-02-21 Fri 11:45]--[2020-02-21 Fri 13:30] =>  1:45
+    CLOCK: [2020-02-21 Fri 10:00]--[2020-02-21 Fri 10:55] =>  0:55
+    CLOCK: [2020-02-21 Fri 06:00]--[2020-02-21 Fri 09:00] =>  3:00
+    CLOCK: [2020-02-20 Thu 11:08]--[2020-02-20 Thu 11:30] =>  0:22
+    CLOCK: [2020-02-20 Thu 06:00]--[2020-02-20 Thu 11:00] =>  5:00
+    CLOCK: [2020-02-19 Wed 11:32]--[2020-02-19 Wed 14:30] =>  2:58
+    CLOCK: [2020-02-19 Wed 10:30]--[2020-02-19 Wed 10:58] =>  0:28
+    CLOCK: [2020-02-19 Wed 06:00]--[2020-02-19 Wed 09:30] =>  3:30
+    CLOCK: [2020-02-18 Tue 12:30]--[2020-02-18 Tue 15:30] =>  3:00
+    CLOCK: [2020-02-18 Tue 11:40]--[2020-02-18 Tue 12:00] =>  0:20
+    CLOCK: [2020-02-18 Tue 07:30]--[2020-02-18 Tue 11:00] =>  3:30
+    CLOCK: [2020-02-17 Mon 11:30]--[2020-02-17 Mon 11:58] =>  0:28
+    CLOCK: [2020-02-17 Mon 06:00]--[2020-02-17 Mon 10:58] =>  4:58
+    :END:
+
+*** Vacation
+    :LOGBOOK:
+    CLOCK: [2020-02-21 Thu 11:30]--[2020-02-21 Thu 15:00] =>  3:30
+    :END:
+
+*** DONE cohort versioning checkin
+    SCHEDULED: <2020-02-21 Fri 11:30>
 
 ** Week 4
 
-*** TODO happy hour
-    SCHEDULED: <2020-02-27 Thu 17:30>
-    Yard House - 160 N Gulph Rd, King of Prussia, PA 19406
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-02-28 Fri 14:24], for week 2020-W09.
+   | Headline                       | Time       |          |       |
+   |--------------------------------+------------+----------+-------|
+   | *Total time*                   | *1d 16:00* |          |       |
+   |--------------------------------+------------+----------+-------|
+   | Recurring Meetings             | 2:20       |          |       |
+   | \_  Standup Mon                |            |     0:20 |       |
+   | \_  Standup Tue                |            |     0:13 |       |
+   | \_  Standup Wed                |            |     0:20 |       |
+   | \_  Standup Thu                |            |     0:20 |       |
+   | \_  Standup Fri                |            |     0:37 |       |
+   | \_  weekly analyst meeting     |            |     0:30 |       |
+   | 2020 - Feb                     | 1d 13:40   |          |       |
+   | \_  Week 4                     |            | 1d 13:40 |       |
+   | \_    cohort runs / versioning |            |          | 11:10 |
+   | \_    cost of care labels      |            |          |  9:31 |
+   | \_    culture club meeting     |            |          |  1:00 |
+   | \_    lunch and learn          |            |          |  1:00 |
+   | \_    sub cohort population 0  |            |          | 14:59 |
+   #+END
+
+*** DONE cohort runs / versioning
+    :LOGBOOK:
+    CLOCK: [2020-02-25 Tue 06:00]--[2020-02-25 Tue 09:30] =>  3:30
+    CLOCK: [2020-02-24 Mon 12:20]--[2020-02-24 Mon 15:30] =>  3:10
+    CLOCK: [2020-02-24 Mon 11:30]--[2020-02-24 Mon 12:00] =>  0:30
+    CLOCK: [2020-02-24 Mon 06:30]--[2020-02-24 Mon 10:30] =>  4:00
+    :END:
+
+*** DONE cost of care labels
+    :LOGBOOK:
+    CLOCK: [2020-02-28 Fri 06:00]--[2020-02-28 Fri 07:21] =>  1:21
+    CLOCK: [2020-02-27 Thu 15:30]--[2020-02-27 Thu 16:30] =>  1:00
+    CLOCK: [2020-02-27 Thu 13:00]--[2020-02-27 Thu 14:30] =>  1:30
+    CLOCK: [2020-02-27 Thu 11:20]--[2020-02-27 Thu 12:00] =>  0:40
+    CLOCK: [2020-02-27 Thu 07:00]--[2020-02-27 Thu 09:30] =>  2:30
+    CLOCK: [2020-02-26 Wed 12:00]--[2020-02-26 Thu 14:30] =>  2:30
+    :END:
+
+*** DONE culture club meeting
+    :LOGBOOK:
+    CLOCK: [2020-02-27 Thu 09:30]--[2020-02-27 Thu 10:30] =>  1:00
+    :END:
+
+*** DONE lunch and learn
+    SCHEDULED: <2020-03-12 Thu>
+    :LOGBOOK:
+    CLOCK: [2020-02-27 Thu 12:00]--[2020-02-27 Thu 13:00] =>  1:00
+    :END:
+*** TODO sub cohort population 0
+    :LOGBOOK:
+    CLOCK: [2020-02-28 Fri 11:34]--[2020-02-28 Fri 15:00] =>  3:26
+    CLOCK: [2020-02-28 Fri 10:30]--[2020-02-28 Fri 10:57] =>  3:36
+    CLOCK: [2020-02-28 Fri 07:21]--[2020-02-28 Fri 09:30] =>  2:09
+    CLOCK: [2020-02-26 Wed 11:20]--[2020-02-26 Wed 12:00] =>  0:40
+    CLOCK: [2020-02-26 Wed 10:30]--[2020-02-26 Wed 11:00] =>  0:30
+    CLOCK: [2020-02-26 Wed 06:00]--[2020-02-26 Wed 09:30] =>  3:30
+    CLOCK: [2020-02-25 Tue 11:13]--[2020-02-25 Tue 15:00] =>  3:47
+    CLOCK: [2020-02-25 Tue 10:30]--[2020-02-25 Tue 11:00] =>  0:30
+    :END:
