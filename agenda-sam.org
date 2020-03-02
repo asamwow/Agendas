@@ -63,15 +63,6 @@
   - State "DONE"       from "TODO"       [2019-12-09 Mon 08:51]
 
 
-* TODO Student loan payment
-  SCHEDULED: <2020-02-26 Thu +1m>
-  :PROPERTIES:
-  :LAST_REPEAT: [2020-01-27 Mon 10:31]
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-01-27 Mon 10:31]
-
-
 * TODO Gym
   SCHEDULED: <2020-02-29 Sat +1d>
   :PROPERTIES:
