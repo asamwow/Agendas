@@ -4,12 +4,13 @@
 * Recurring Meetings
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-03-02 Mon 11:00 ++1w>
+   SCHEDULED: <2020-03-09 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-24 Mon 13:09]
+   :LAST_REPEAT: [2020-03-02 Mon 14:40]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-03-02 Mon 10:58]--[2020-03-02 Mon 11:15] =>  0:17
    CLOCK: [2020-02-24 Mon 12:00]--[2020-02-24 Mon 12:20] =>  0:20
    CLOCK: [2020-02-17 Mon 10:58]--[2020-02-17 Mon 11:30] =>  0:32
    CLOCK: [2020-02-10 Mon 11:01]--[2020-02-10 Mon 11:21] =>  0:20
@@ -18,12 +19,13 @@
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-03-03 Tue 11:00 ++1w>
+   SCHEDULED: <2020-03-10 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-25 Tue 11:13]
+   :LAST_REPEAT: [2020-03-03 Tue 11:18]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-03-03 Tue 11:00]--[2020-03-03 Tue 11:15] =>  0:15
    CLOCK: [2020-02-25 Tue 11:00]--[2020-02-25 Tue 11:13] =>  0:13
    CLOCK: [2020-02-18 Tue 11:00]--[2020-02-18 Tue 11:40] =>  0:40
    CLOCK: [2020-02-11 Tue 11:00]--[2020-02-11 Tue 11:20] =>  0:20
@@ -32,12 +34,13 @@
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-03-04 Wed 11:00 ++1w>
+   SCHEDULED: <2020-03-11 Wed 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-26 Wed 10:56]
+   :LAST_REPEAT: [2020-03-04 Wed 11:19]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-03-04 Wed 11:00]--[2020-03-04 Wed 11:15] =>  0:15
    CLOCK: [2020-02-26 Wed 11:00]--[2020-02-26 Wed 11:20] =>  0:20
    CLOCK: [2020-02-19 Wed 10:58]--[2020-02-19 Wed 11:32] =>  0:34
    CLOCK: [2020-02-12 Wed 10:59]--[2020-02-12 Wed 11:22] =>  0:23
@@ -46,12 +49,13 @@
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-03-05 Thu 11:00 ++1w>
+   SCHEDULED: <2020-03-12 Thu 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-27 Thu 11:32]
+   :LAST_REPEAT: [2020-03-05 Thu 12:53]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-03-05 Thu 11:00]--[2020-03-05 Thu 11:15] =>  0:15
    CLOCK: [2020-02-27 Thu 11:00]--[2020-02-27 Thu 11:20] =>  0:20
    CLOCK: [2020-02-20 Thu 11:00]--[2020-02-20 Thu 11:08] =>  0:08
    CLOCK: [2020-02-13 Thu 10:55]--[2020-02-13 Thu 11:20] =>  0:25
@@ -59,12 +63,13 @@
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-03-06 Fri 11:00 ++1w>
+   SCHEDULED: <2020-03-13 Fri 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-28 Fri 11:34]
+   :LAST_REPEAT: [2020-03-06 Fri 11:45]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-03-06 Fri 11:00]--[2020-03-06 Fri 11:15] =>  0:15
    CLOCK: [2020-02-28 Fri 10:57]--[2020-02-28 Fri 11:34] =>  0:37
    CLOCK: [2020-02-21 Fri 10:55]--[2020-02-21 Fri 11:45] =>  0:50
    CLOCK: [2020-02-14 Fri 11:00]--[2020-02-14 Fri 11:20] =>  0:20
@@ -74,9 +79,9 @@
 
 
 ** TODO Bi-weekly Analysts meeting
-   SCHEDULED: <2020-03-02 Mon ++2w>
+   SCHEDULED: <2020-03-16 Mon ++2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-18 Tue 08:12]
+   :LAST_REPEAT: [2020-03-04 Wed 10:44]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
@@ -85,10 +90,11 @@
    :END:
 
 ** TODO weekly analyst meeting
-   SCHEDULED: <2020-03-05 Thu ++1w>
+   SCHEDULED: <2020-03-12 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-28 Fri 07:22]
+   :LAST_REPEAT: [2020-03-06 Fri 11:50]
    :END:
+   - State "DONE"       from "TODO"       [2020-03-06 Fri 11:50]
    - State "DONE"       from "TODO"       [2020-02-28 Fri 07:22]
    :LOGBOOK:
    CLOCK: [2020-02-27 Thu 10:30]--[2020-02-27 Thu 11:00] =>  0:30
@@ -561,4 +567,119 @@
     CLOCK: [2020-02-26 Wed 06:00]--[2020-02-26 Wed 09:30] =>  3:30
     CLOCK: [2020-02-25 Tue 11:13]--[2020-02-25 Tue 15:00] =>  3:47
     CLOCK: [2020-02-25 Tue 10:30]--[2020-02-25 Tue 11:00] =>  0:30
+    :END:
+
+
+* 2020 - Mar
+
+** Week 1
+
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-03-06 Fri 14:49], for week 2020-W10.
+   | Headline                                      | Time       |          |       |
+   |-----------------------------------------------+------------+----------+-------|
+   | *Total time*                                  | *1d 16:00* |          |       |
+   |-----------------------------------------------+------------+----------+-------|
+   | Recurring Meetings                            | 1:17       |          |       |
+   | \_  Standup Mon                               |            |     0:17 |       |
+   | \_  Standup Tue                               |            |     0:15 |       |
+   | \_  Standup Wed                               |            |     0:15 |       |
+   | \_  Standup Thu                               |            |     0:15 |       |
+   | \_  Standup Fri                               |            |     0:15 |       |
+   | 2020 - Mar                                    | 1d 14:43   |          |       |
+   | \_  Week 1                                    |            | 1d 14:43 |       |
+   | \_    cohort versioning                       |            |          | 11:58 |
+   | \_    migration snowflake meeting             |            |          |  0:25 |
+   | \_    cohort run log                          |            |          |  1:17 |
+   | \_    Top Procedures migration                |            |          |  1:18 |
+   | \_    Drug Persistence migration to snowflake |            |          |  2:34 |
+   | \_    Disease Prevalence migration to...      |            |          |  2:15 |
+   | \_    Drug Trends migration to snowflake      |            |          |  1:46 |
+   | \_    Top Physician Specialties migration...  |            |          |  1:55 |
+   | \_    Insurance Type List migration to...     |            |          |  0:15 |
+   | \_    Transitions migration to snowflake      |            |          | 10:15 |
+   | \_    cost of care migration to snowflake     |            |          |  2:45 |
+   | \_    market share migration to snowflake     |            |          |  1:30 |
+   | \_    vacation time                           |            |          |  0:30 |
+   #+END
+
+*** DONE cohort versioning
+    :LOGBOOK:
+    CLOCK: [2020-03-03 Tue 11:15]--[2020-03-03 Tue 12:00] =>  0:45
+    CLOCK: [2020-03-03 Tue 10:30]--[2020-03-03 Tue 11:00] =>  0:30
+    CLOCK: [2020-03-03 Tue 06:00]--[2020-03-03 Tue 09:30] =>  3:30
+    CLOCK: [2020-03-02 Mon 12:30]--[2020-03-02 Mon 15:30] =>  3:00
+    CLOCK: [2020-03-02 Mon 11:15]--[2020-03-02 Mon 11:30] =>  0:15
+    CLOCK: [2020-03-02 Mon 07:00]--[2020-03-02 Mon 10:58] =>  3:56
+    :END:
+
+*** DONE migration snowflake meeting
+    SCHEDULED: <2020-03-03 Tue 12:00>
+    :LOGBOOK:
+    CLOCK: [2020-03-03 Tue 12:00]--[2020-03-03 Tue 12:25] =>  0:25
+    :END:
+
+*** OUT cohort run log
+    :LOGBOOK:
+    CLOCK: [2020-03-03 Tue 13:43]--[2020-03-03 Tue 15:00] =>  1:17
+    :END:
+
+*** DONE Top Procedures migration
+    :LOGBOOK:
+    CLOCK: [2020-03-03 Tue 12:25]--[2020-03-03 Tue 13:43] =>  1:18
+    :END:
+
+*** DONE Drug Persistence migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-04 Wed 13:30]--[2020-03-04 Wed 14:20] =>  0:50
+    CLOCK: [2020-03-04 Wed 10:30]--[2020-03-04 Wed 11:00] =>  0:30
+    CLOCK: [2020-03-04 Wed 08:16]--[2020-03-04 Wed 09:30] =>  1:14
+    :END:
+
+    failing because cohortsdev.drug_prod_rx is empty
+
+*** DONE Disease Prevalence migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-04 Wed 11:15]--[2020-03-04 Wed 13:30] =>  2:15
+    :END:
+
+*** DONE Drug Trends migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-04 Wed 06:30]--[2020-03-04 Wed 08:16] =>  1:46
+    :END:
+
+*** DONE Top Physician Specialties migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-05 Thu 06:00]--[2020-03-05 Thu 07:00] =>  1:00
+    CLOCK: [2020-03-04 Wed 14:35]--[2020-03-04 Wed 15:30] =>  0:55
+    :END:
+
+*** DONE Insurance Type List migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-04 Wed 14:20]--[2020-03-04 Wed 14:35] =>  0:15
+    :END:
+
+*** OUT Transitions migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-06 Fri 10:30]--[2020-03-06 Fri 11:00] =>  0:30
+    CLOCK: [2020-03-06 Fri 06:30]--[2020-03-06 Fri 09:30] =>  3:00
+    CLOCK: [2020-03-05 Thu 11:15]--[2020-03-05 Thu 15:00] =>  3:45
+    CLOCK: [2020-03-05 Thu 10:30]--[2020-03-05 Thu 11:00] =>  0:30
+    CLOCK: [2020-03-05 Thu 07:00]--[2020-03-05 Thu 09:30] =>  2:30
+    :END:
+
+*** DONE cost of care migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-06 Fri 11:45]--[2020-03-06 Fri 14:00] =>  2:15
+    CLOCK: [2020-03-06 Fri 11:15]--[2020-03-06 Fri 11:45] =>  0:30
+    :END:
+
+*** OUT market share migration to snowflake
+    :LOGBOOK:
+    CLOCK: [2020-03-06 Fri 14:00]--[2020-03-06 Fri 15:30] =>  1:30
+    :END:
+
+*** vacation time
+    :LOGBOOK:
+    CLOCK: [2020-03-06 Fri 15:30]--[2020-03-06 Fri 16:00] =>  0:30
     :END:
