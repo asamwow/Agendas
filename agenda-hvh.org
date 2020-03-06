@@ -115,30 +115,30 @@
    CLOCK: [2019-11-04 Mon 08:30]--[2019-11-04 Mon 11:00] =>  2:30
    :END:
 
-*** TODO Mark Meeting Mon
+*** DONE Mark Meeting Mon
     :PROPERTIES:
     :LAST_REPEAT: [2019-11-12 Tue 08:54]
     :END:
     - State "DONE"       from "TODO"       [2019-11-12 Tue 08:54]
     - State "DONE"       from "TODO"       [2019-11-11 Mon 14:25]
-*** TODO Mark Meeting Tue
+*** DONE Mark Meeting Tue
     :PROPERTIES:
     :LAST_REPEAT: [2019-11-12 Tue 09:45]
     :END:
     - State "DONE"       from "TODO"       [2019-11-12 Tue 09:45]
-*** TODO Mark Meeting Wed
+*** DONE Mark Meeting Wed
     :PROPERTIES:
     :LAST_REPEAT: [2019-11-13 Wed 10:46]
     :END:
     - State "DONE"       from "TODO"       [2019-11-13 Wed 10:46]
     - State "DONE"       from "TODO"       [2019-11-06 Wed 09:56]
-*** TODO Mark Meeting Thu
+*** DONE Mark Meeting Thu
     :PROPERTIES:
     :LAST_REPEAT: [2019-11-14 Thu 10:54]
     :END:
     - State "DONE"       from "TODO"       [2019-11-14 Thu 10:54]
     - State "DONE"       from "TODO"       [2019-11-07 Thu 12:24]
-*** TODO Mark Meeting Fri
+*** DONE Mark Meeting Fri
     :PROPERTIES:
     :LAST_REPEAT: [2019-11-15 Fri 13:39]
     :END:
@@ -320,7 +320,7 @@
 | \_    export excel from amazon S3 |            |          |    5:10 |
 #+END:
 
-*** TODO cypress analytics tests
+*** DONE cypress analytics tests
     :LOGBOOK:
     CLOCK: [2020-01-31 Fri 11:20]--[2020-01-31 Fri 14:30] =>  3:10
     CLOCK: [2020-01-31 Fri 08:25]--[2020-01-31 Fri 11:00] =>  2:35
@@ -557,7 +557,7 @@
     :LOGBOOK:
     CLOCK: [2020-02-27 Thu 12:00]--[2020-02-27 Thu 13:00] =>  1:00
     :END:
-*** TODO sub cohort population 0
+*** DONE sub cohort population 0
     :LOGBOOK:
     CLOCK: [2020-02-28 Fri 11:34]--[2020-02-28 Fri 15:00] =>  3:26
     CLOCK: [2020-02-28 Fri 10:30]--[2020-02-28 Fri 10:57] =>  3:36
@@ -681,3 +681,11 @@
     :LOGBOOK:
     CLOCK: [2020-03-06 Fri 15:30]--[2020-03-06 Fri 16:00] =>  0:30
     :END:
+
+** Week 3
+
+*** TODO market share migration to snowflake
+
+*** TODO Transitions migration to snowflake
+
+*** TODO cohort run log
