@@ -2,11 +2,12 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Update ledger
-  SCHEDULED: <2020-03-10 Tue +1w>
+  SCHEDULED: <2020-03-17 Tue +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-04 Wed 10:46]
+  :LAST_REPEAT: [2020-03-11 Wed 07:59]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-03-11 Wed 07:59]
   - State "DONE"       from "TODO"       [2020-03-04 Wed 10:46]
   - State "DONE"       from "TODO"       [2020-03-04 Wed 10:43]
   - State "DONE"       from "TODO"       [2020-02-19 Wed 09:12]
@@ -46,11 +47,12 @@
 
 
 * TODO Meal prep
-  SCHEDULED: <2020-03-07 Sat ++1w>
+  SCHEDULED: <2020-03-14 Sat ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-04 Wed 10:44]
+  :LAST_REPEAT: [2020-03-09 Mon 08:48]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-03-09 Mon 08:48]
   - State "DONE"       from "TODO"       [2020-03-04 Wed 10:44]
   - State "DONE"       from "TODO"       [2020-02-24 Mon 10:11]
   - State "DONE"       from "TODO"       [2020-02-17 Mon 08:59]
@@ -68,11 +70,19 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-03-07 Sat +1d>
+  SCHEDULED: <2020-03-11 Wed +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-03-10 Tue 15:28] \\
+    swimming
+  - State "DONE"       from "TODO"       [2020-03-09 Mon 16:27] \\
+    chest and tri, yoga
+  - State "DONE"       from "TODO"       [2020-03-09 Mon 08:48] \\
+    swimming
+  - State "DONE"       from "TODO"       [2020-03-09 Mon 08:48] \\
+    back and bi
   - State "DONE"       from "TODO"       [2020-03-06 Fri 11:50] \\
     warrior's physique class
   - State "DONE"       from "TODO"       [2020-03-06 Fri 11:50] \\
