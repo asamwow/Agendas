@@ -1,0 +1,81 @@
+#+TITLE:Sight Agenda
+#+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d) OUT(o)
+
+* 2020
+
+** TODO Standup Mon
+   SCHEDULED: <2020-05-04 Mon 11:00 ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-03-31 Tue 10:00]
+   :LOGGING:  NONE
+   :END:
+   :LOGBOOK:
+   CLOCK: [2020-04-27 Mon 09:30]--[2020-04-27 Mon 10:30] =>  1:00
+   :END:
+
+** TODO Standup Tue
+   SCHEDULED: <2020-05-05 Tue 11:00 ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-03-31 Tue 12:28]
+   :LOGGING:  NONE
+   :END:
+
+** TODO Standup Wed
+   SCHEDULED: <2020-05-06 Wed ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-03-26 Thu 08:51]
+   :LOGGING:  NONE
+   :END:
+
+** TODO Standup Thu
+   SCHEDULED: <2020-04-30 Thu ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-03-26 Thu 09:11]
+   :LOGGING:  NONE
+   :END:
+
+** TODO Standup Fri
+   SCHEDULED: <2020-05-01 Fri ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-03-30 Mon 09:54]
+   :LOGGING:  NONE
+   :END:
+
+
+** Week 17
+
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-04-29 Wed 09:52], for week 2020-W18.
+   | Headline                            | Time   |      |      |
+   |-------------------------------------+--------+------+------|
+   | *Total time*                        | *8:00* |      |      |
+   |-------------------------------------+--------+------+------|
+   | 2020                                | 8:00   |      |      |
+   | \_  Standup Mon                     |        | 1:00 |      |
+   | \_  Week 17                         |        | 7:00 |      |
+   | \_    examine web hosting solutions |        |      | 3:00 |
+   | \_    initialize dotnet mvc project |        |      | 3:00 |
+   | \_    develop basic makefile        |        |      | 1:00 |
+   #+END
+
+*** DONE jones brennan cogent view overview                          :ATTACH:
+    :PROPERTIES:
+    :ID:       64615703-422b-461f-9bf4-a8e8815f1726
+    :END:
+
+*** DONE examine web hosting solutions
+    :LOGBOOK:
+    CLOCK: [2020-04-27 Mon 10:30]--[2020-04-27 Mon 13:30] =>  3:00
+    :END:
+
+*** DONE initialize dotnet mvc project
+    :LOGBOOK:
+    CLOCK: [2020-04-28 Tue 12:30]--[2020-04-28 Tue 15:30] =>  3:00
+    :END:
+
+*** DONE develop basic makefile
+    :LOGBOOK:
+    CLOCK: [2020-04-29 Wed 09:00]--[2020-04-29 Wed 10:00] =>  1:00
+    :END:
+
+*** TODO base html page layout
