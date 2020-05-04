@@ -26,12 +26,18 @@
    :LAST_REPEAT: [2020-03-26 Thu 08:51]
    :LOGGING:  NONE
    :END:
+   :LOGBOOK:
+   CLOCK: [2020-04-29 Wed 10:00]--[2020-04-29 Wed 10:30] =>  0:30
+   :END:
 
 ** TODO Standup Thu
    SCHEDULED: <2020-04-30 Thu ++1w>
    :PROPERTIES:
    :LAST_REPEAT: [2020-03-26 Thu 09:11]
    :LOGGING:  NONE
+   :END:
+   :LOGBOOK:
+   CLOCK: [2020-04-30 Thu 10:00]--[2020-04-30 Thu 10:30] =>  0:30
    :END:
 
 ** TODO Standup Fri
@@ -40,22 +46,29 @@
    :LAST_REPEAT: [2020-03-30 Mon 09:54]
    :LOGGING:  NONE
    :END:
-
+   :LOGBOOK:
+   CLOCK: [2020-05-01 Fri 10:00]--[2020-05-01 Fri 10:30] =>  0:30
+   :END:
 
 ** Week 17
 
-   #+BEGIN: clocktable :block week :maxlevel 3
-   #+CAPTION: Clock summary at [2020-04-29 Wed 09:52], for week 2020-W18.
-   | Headline                            | Time   |      |      |
-   |-------------------------------------+--------+------+------|
-   | *Total time*                        | *8:00* |      |      |
-   |-------------------------------------+--------+------+------|
-   | 2020                                | 8:00   |      |      |
-   | \_  Standup Mon                     |        | 1:00 |      |
-   | \_  Week 17                         |        | 7:00 |      |
-   | \_    examine web hosting solutions |        |      | 3:00 |
-   | \_    initialize dotnet mvc project |        |      | 3:00 |
-   | \_    develop basic makefile        |        |      | 1:00 |
+   #+BEGIN: clocktable :block lastweek :maxlevel 3
+   #+CAPTION: Clock summary at [2020-05-04 Mon 06:02], for week 2020-W18.
+   | Headline                            | Time      |         |       |
+   |-------------------------------------+-----------+---------+-------|
+   | *Total time*                        | *1d 7:00* |         |       |
+   |-------------------------------------+-----------+---------+-------|
+   | 2020                                | 1d 7:00   |         |       |
+   | \_  Standup Mon                     |           |    1:00 |       |
+   | \_  Standup Wed                     |           |    0:30 |       |
+   | \_  Standup Thu                     |           |    0:30 |       |
+   | \_  Standup Fri                     |           |    0:30 |       |
+   | \_  Week 17                         |           | 1d 4:30 |       |
+   | \_    examine web hosting solutions |           |         |  3:00 |
+   | \_    initialize dotnet mvc project |           |         |  3:00 |
+   | \_    develop basic makefile        |           |         |  1:00 |
+   | \_    base html page layout         |           |         | 14:00 |
+   | \_    about us page                 |           |         |  7:30 |
    #+END
 
 *** DONE jones brennan cogent view overview                          :ATTACH:
@@ -78,4 +91,22 @@
     CLOCK: [2020-04-29 Wed 09:00]--[2020-04-29 Wed 10:00] =>  1:00
     :END:
 
-*** TODO base html page layout
+*** DONE base html page layout
+    :LOGBOOK:
+    CLOCK: [2020-04-29 Wed 10:30]--[2020-04-29 Wed 16:00] =>  6:00
+    CLOCK: [2020-04-30 Thu 07:30]--[2020-04-30 Thu 10:00] =>  2:30
+    CLOCK: [2020-04-30 Thu 10:30]--[2020-04-30 Thu 16:30] =>  4:30
+    :END:
+
+*** DONE about us page
+    :LOGBOOK:
+    CLOCK: [2020-05-01 Fri 8:00]--[2020-05-01 Fri 10:00] =>  2:00
+    CLOCK: [2020-05-01 Fri 10:30]--[2020-05-01 Fri 12:00] =>  1:30
+    CLOCK: [2020-05-03 Sun 12:00]--[2020-05-03 Sun 16:00] =>  4:00
+    :END:
+
+*** Week 18
+
+*** TODO db context
+
+*** TODO identity server
