@@ -31,27 +31,29 @@
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-06 Wed 10:00]--[2020-05-06 Wed 10:30] =>  0:00
+   CLOCK: [2020-05-06 Wed 10:00]--[2020-05-06 Wed 10:30] =>  0:30
    CLOCK: [2020-04-29 Wed 10:00]--[2020-04-29 Wed 10:30] =>  0:30
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-04-30 Thu ++1w>
+   SCHEDULED: <2020-05-14 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-03-26 Thu 09:11]
+   :LAST_REPEAT: [2020-05-07 Thu 08:10]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-07 Thu 10:00]--[2020-05-07 Thu 10:30] =>  0:30
    CLOCK: [2020-04-30 Thu 10:00]--[2020-04-30 Thu 10:30] =>  0:30
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-05-01 Fri ++1w>
+   SCHEDULED: <2020-05-15 Fri ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-03-30 Mon 09:54]
+   :LAST_REPEAT: [2020-05-08 Fri 09:28]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-08 Fri 10:00]--[2020-05-08 Fri 10:30] =>  0:30
    CLOCK: [2020-05-01 Fri 10:00]--[2020-05-01 Fri 10:30] =>  0:30
    :END:
 
@@ -115,19 +117,24 @@
 ** Week 18
 
    #+BEGIN: clocktable :block week :maxlevel 3
-   #+CAPTION: Clock summary at [2020-05-06 Wed 14:19], for week 2020-W19.
-   | Headline                           | Time    |       |      |
-   |------------------------------------+---------+-------+------|
-   | *Total time*                       | *23:30* |       |      |
-   |------------------------------------+---------+-------+------|
-   | 2020                               | 23:30   |       |      |
-   | \_  Standup Mon                    |         |  0:30 |      |
-   | \_  Standup Tue                    |         |  0:30 |      |
-   | \_  Standup Wed                    |         |  0:30 |      |
-   | \_  Week 18                        |         | 22:00 |      |
-   | \_    local db context             |         |       | 9:30 |
-   | \_    identity server              |         |       | 7:00 |
-   | \_    account management front end |         |       | 5:30 |
+   #+CAPTION: Clock summary at [2020-05-08 Fri 09:53], for week 2020-W19.
+   | Headline                                | Time      |         |      |
+   |-----------------------------------------+-----------+---------+------|
+   | *Total time*                            | *1d 8:32* |         |      |
+   |-----------------------------------------+-----------+---------+------|
+   | 2020                                    | 1d 8:32   |         |      |
+   | \_  Standup Mon                         |           |    0:30 |      |
+   | \_  Standup Tue                         |           |    0:30 |      |
+   | \_  Standup Wed                         |           |    0:30 |      |
+   | \_  Standup Thu                         |           |    0:30 |      |
+   | \_  Standup Fri                         |           |    0:30 |      |
+   | \_  Week 18                             |           | 1d 6:02 |      |
+   | \_    local db context                  |           |         | 9:30 |
+   | \_    identity server                   |           |         | 7:00 |
+   | \_    account management front end      |           |         | 5:30 |
+   | \_    display "logged-in" status on bar |           |         | 1:30 |
+   | \_    fix logout                        |           |         | 6:00 |
+   | \_    fix email sender                  |           |         | 0:32 |
    #+END
 
 *** DONE local db context
@@ -148,10 +155,30 @@
      CLOCK: [2020-05-06 Wed 10:30]--[2020-05-06 Wed 16:00] =>  5:30
      :END:
 
-*** TODO display "logged-in" status on bar
+*** DONE display "logged-in" status on bar
+    :LOGBOOK:
+    CLOCK: [2020-05-07 Thu 08:00]--[2020-05-07 Thu 9:30] =>  1:30
+    :END:
 
-*** TODO fix logout
+*** DONE fix logout
+    :LOGBOOK:
+    CLOCK: [2020-05-07 Thu 10:30]--[2020-05-07 Thu 16:00] =>  5:30
+    CLOCK: [2020-05-07 Thu 09:30]--[2020-05-07 Thu 10:00] =>  0:30
+    :END:
 
-*** TODO fix email sender
+*** CANCELLED fix email sender
+    - State "CANCELLED"  from "TODO"       [2020-05-08 Fri 10:00] \\
+      split into more issues
+    :LOGBOOK:
+    CLOCK: [2020-05-08 Fri 09:28]--[2020-05-08 Fri 10:00] =>  0:32
+    :END:
 
 *** TODO start station page
+
+** Week 19
+
+*** TODO station page
+
+*** TODO smtp server
+
+*** TODO single sign-on password reset
