@@ -4,59 +4,64 @@
 * 2020
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-05-18 Mon 11:00 ++1w>
+   SCHEDULED: <2020-05-25 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-17 Sun 12:15]
+   :LAST_REPEAT: [2020-05-18 Mon 09:43]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-18 Mon 10:00]--[2020-05-18 Mon 10:30] =>  0:30
    CLOCK: [2020-04-27 Mon 09:30]--[2020-04-27 Mon 10:30] =>  1:00
    CLOCK: [2020-05-04 Mon 10:00]--[2020-05-04 Mon 10:30] =>  0:30
    CLOCK: [2020-05-11 Mon 10:00]--[2020-05-11 Mon 10:30] =>  0:30
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-05-19 Tue 11:00 ++1w>
+   SCHEDULED: <2020-05-26 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-17 Sun 12:15]
+   :LAST_REPEAT: [2020-05-19 Tue 08:42]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-19 Tue 10:00]--[2020-05-19 Tue 10:30] =>  0:30
    CLOCK: [2020-05-05 Tue 10:00]--[2020-05-05 Tue 10:30] =>  0:30
    CLOCK: [2020-05-12 Tue 10:00]--[2020-05-12 Tue 10:30] =>  0:30
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-05-20 Wed ++1w>
+   SCHEDULED: <2020-05-27 Wed ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-17 Sun 12:15]
+   :LAST_REPEAT: [2020-05-24 Sun 12:50]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-20 Wed 10:00]--[2020-05-20 Wed 10:30] =>  0:30
    CLOCK: [2020-05-13 Wed 10:00]--[2020-05-13 Wed 10:30] =>  0:30
    CLOCK: [2020-05-06 Wed 10:00]--[2020-05-06 Wed 10:30] =>  0:30
    CLOCK: [2020-04-29 Wed 10:00]--[2020-04-29 Wed 10:30] =>  0:30
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-05-21 Thu ++1w>
+   SCHEDULED: <2020-05-28 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-17 Sun 12:16]
+   :LAST_REPEAT: [2020-05-24 Sun 12:50]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-21 Thu 10:00]--[2020-05-21 Thu 10:30] =>  0:30
    CLOCK: [2020-05-14 Thu 10:00]--[2020-05-14 Thu 10:30] =>  0:30
    CLOCK: [2020-05-07 Thu 10:00]--[2020-05-07 Thu 10:30] =>  0:30
    CLOCK: [2020-04-30 Thu 10:00]--[2020-04-30 Thu 10:30] =>  0:30
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-05-22 Fri ++1w>
+   SCHEDULED: <2020-05-29 Fri ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-17 Sun 12:16]
+   :LAST_REPEAT: [2020-05-24 Sun 12:50]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-22 Fri 10:00]--[2020-05-22 Fri 10:30] =>  0:30
    CLOCK: [2020-05-15 Fri 10:00]--[2020-05-15 Fri 10:30] =>  0:30
    CLOCK: [2020-05-08 Fri 10:00]--[2020-05-08 Fri 10:30] =>  0:30
    CLOCK: [2020-05-01 Fri 10:00]--[2020-05-01 Fri 10:30] =>  0:30
@@ -204,7 +209,7 @@
    | \_    station page |            |          | 1d 13:30 |
    #+END
 
-*** TODO station page
+*** OUT station page
     :LOGBOOK:
     CLOCK: [2020-05-17 Sun 8:00]--[2020-05-17 Sun 13:00] =>  5:00
     CLOCK: [2020-05-11 Mon 7:30]--[2020-05-11 Mon 10:00] =>  2:30
@@ -222,6 +227,64 @@
 
 *** OUT smtp server
 
+
 ** Week 20
+
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-05-24 Sun 12:57], for week 2020-W21.
+   | Headline                             | Time       |          |       |
+   |--------------------------------------+------------+----------+-------|
+   | *Total time*                         | *1d 16:00* |          |       |
+   |--------------------------------------+------------+----------+-------|
+   | 2020                                 | 1d 16:00   |          |       |
+   | \_  Standup Mon                      |            |     0:30 |       |
+   | \_  Standup Tue                      |            |     0:30 |       |
+   | \_  Standup Wed                      |            |     0:30 |       |
+   | \_  Standup Thu                      |            |     0:30 |       |
+   | \_  Standup Fri                      |            |     0:30 |       |
+   | \_  Week 20                          |            | 1d 13:30 |       |
+   | \_    station page                   |            |          | 12:30 |
+   | \_    host on managed linux server   |            |          |  0:30 |
+   | \_    host on managed windows server |            |          |  9:00 |
+   | \_    host on linux vps server       |            |          | 11:00 |
+   | \_    ssl and https redirection      |            |          |  4:30 |
+   #+END
+
+*** DONE station page
+    :LOGBOOK:
+    CLOCK: [2020-05-24 Sun 10:00]--[2020-05-24 Sun 12:30] =>  2:30
+    CLOCK: [2020-05-19 Tue 07:00]--[2020-05-19 Tue 10:00] =>  0:00
+    CLOCK: [2020-05-18 Mon 10:30]--[2020-05-18 Mon 15:00] =>  4:30
+    CLOCK: [2020-05-18 Mon 7:30]--[2020-05-18 Mon 10:00] =>  2:30
+    :END:
+
+*** CANCELLED host on managed linux server
+    :LOGBOOK:
+    CLOCK: [2020-05-19 Tue 10:30]--[2020-05-19 Tue 11:00] =>  1:00
+    :END:
+
+*** CANCELLED host on managed windows server
+    :LOGBOOK:
+    CLOCK: [2020-05-19 Tue 11:00]--[2020-05-19 Sun 16:30] =>  5:30
+    CLOCK: [2020-05-20 Wed 07:00]--[2020-05-20 Wed 10:00] =>  3:00
+    CLOCK: [2020-05-20 Wed 10:30]--[2020-05-20 Wed 11:00] =>  1:00
+    :END:
+
+*** DONE host on linux vps server
+    :LOGBOOK:
+    CLOCK: [2020-05-20 Wed 11:00]--[2020-05-20 Wed 18:30] =>  7:30
+    CLOCK: [2020-05-21 Thu 10:30]--[2020-05-21 Thu 11:00] =>  1:00
+    CLOCK: [2020-05-21 Thu 07:00]--[2020-05-21 Thu 10:00] =>  3:00
+    :END:
+
+*** DONE ssl and https redirection
+    :LOGBOOK:
+    CLOCK: [2020-05-22 Fri 08:00]--[2020-05-22 Fri 10:00] =>  2:00
+    CLOCK: [2020-05-22 Fri 10:30]--[2020-05-22 Fri 13:00] =>  2:00
+    :END:
+
+*** OUT smtp server
+
+** Week 21
 
 *** TODO smtp server
