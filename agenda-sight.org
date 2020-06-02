@@ -4,9 +4,9 @@
 * 2020
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-05-25 Mon 11:00 ++1w>
+   SCHEDULED: <2020-06-01 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-18 Mon 09:43]
+   :LAST_REPEAT: [2020-05-27 Wed 08:57]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
@@ -17,24 +17,26 @@
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-05-26 Tue 11:00 ++1w>
+   SCHEDULED: <2020-06-02 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-19 Tue 08:42]
+   :LAST_REPEAT: [2020-05-27 Wed 08:57]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-26 Tue 10:00]--[2020-05-26 Tue 10:30] =>  0:30
    CLOCK: [2020-05-19 Tue 10:00]--[2020-05-19 Tue 10:30] =>  0:30
    CLOCK: [2020-05-05 Tue 10:00]--[2020-05-05 Tue 10:30] =>  0:30
    CLOCK: [2020-05-12 Tue 10:00]--[2020-05-12 Tue 10:30] =>  0:30
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-05-27 Wed ++1w>
+   SCHEDULED: <2020-06-03 Wed ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-24 Sun 12:50]
+   :LAST_REPEAT: [2020-05-27 Wed 08:58]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-27 Wed 10:00]--[2020-05-27 Wed 10:30] =>  0:30
    CLOCK: [2020-05-20 Wed 10:00]--[2020-05-20 Wed 10:30] =>  0:30
    CLOCK: [2020-05-13 Wed 10:00]--[2020-05-13 Wed 10:30] =>  0:30
    CLOCK: [2020-05-06 Wed 10:00]--[2020-05-06 Wed 10:30] =>  0:30
@@ -42,12 +44,13 @@
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-05-28 Thu ++1w>
+   SCHEDULED: <2020-06-04 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-24 Sun 12:50]
+   :LAST_REPEAT: [2020-05-31 Sun 16:51]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-28 Thu 10:00]--[2020-05-28 Thu 10:30] =>  0:30
    CLOCK: [2020-05-21 Thu 10:00]--[2020-05-21 Thu 10:30] =>  0:30
    CLOCK: [2020-05-14 Thu 10:00]--[2020-05-14 Thu 10:30] =>  0:30
    CLOCK: [2020-05-07 Thu 10:00]--[2020-05-07 Thu 10:30] =>  0:30
@@ -55,12 +58,13 @@
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-05-29 Fri ++1w>
+   SCHEDULED: <2020-06-05 Fri ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-24 Sun 12:50]
+   :LAST_REPEAT: [2020-05-31 Sun 17:04]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-29 Fri 10:00]--[2020-05-29 Fri 10:30] =>  0:30
    CLOCK: [2020-05-22 Fri 10:00]--[2020-05-22 Fri 10:30] =>  0:30
    CLOCK: [2020-05-15 Fri 10:00]--[2020-05-15 Fri 10:30] =>  0:30
    CLOCK: [2020-05-08 Fri 10:00]--[2020-05-08 Fri 10:30] =>  0:30
@@ -285,6 +289,60 @@
 
 *** OUT smtp server
 
+
 ** Week 21
 
-*** TODO smtp server
+   #+BEGIN: clocktable :block week :maxlevel 3
+   #+CAPTION: Clock summary at [2020-05-31 Sun 17:09], for week 2020-W22.
+   | Headline                                    | Time       |          |       |
+   |---------------------------------------------+------------+----------+-------|
+   | *Total time*                                | *1d 16:00* |          |       |
+   |---------------------------------------------+------------+----------+-------|
+   | 2020                                        | 1d 16:00   |          |       |
+   | \_  Standup Tue                             |            |     0:30 |       |
+   | \_  Standup Wed                             |            |     0:30 |       |
+   | \_  Standup Thu                             |            |     0:30 |       |
+   | \_  Standup Fri                             |            |     0:30 |       |
+   | \_  Week 21                                 |            | 1d 14:00 |       |
+   | \_    memorial day                          |            |          |  8:00 |
+   | \_    link to station selector              |            |          |  1:00 |
+   | \_    implement generic rail attachment     |            |          |  2:00 |
+   | \_    add vehicles to station page          |            |          |  2:00 |
+   | \_    smtp server, password reset, email... |            |          |  9:00 |
+   | \_    station page                          |            |          | 16:00 |
+   #+END:
+
+*** DONE memorial day
+    :LOGBOOK:
+    CLOCK: [2020-05-25 Mon 07:00]--[2020-05-25 Mon 15:00] =>  8:00
+    :END:
+
+*** DONE link to station selector
+    :LOGBOOK:
+    CLOCK: [2020-05-25 Mon 12:00]--[2020-05-25 Mon 13:00] =>  1:00
+    :END:
+
+*** DONE implement generic rail attachment
+    :LOGBOOK:
+    CLOCK: [2020-05-26 Tue 07:00]--[2020-05-26 Tue 08:00] =>  1:00
+    CLOCK: [2020-05-25 Mon 13:00]--[2020-05-25 Mon 14:00] =>  1:00
+    :END:
+
+*** DONE add vehicles to station page
+    :LOGBOOK:
+    CLOCK: [2020-05-26 Tue 08:00]--[2020-05-26 Tue 10:00] =>  2:00
+    :END:
+
+*** DONE smtp server, password reset, email confirmation
+    :LOGBOOK:
+    CLOCK: [2020-05-26 Tue 10:30]--[2020-05-26 Tue 16:00] =>  5:30
+    CLOCK: [2020-05-27 Wed 06:30]--[2020-05-27 Wed 10:00] =>  3:30
+    :END:
+
+*** OUT station page
+    :LOGBOOK:
+    CLOCK: [2020-05-28 Thu 06:00]--[2020-05-28 Thu 10:00] =>  4:00
+    CLOCK: [2020-05-28 Thu 10:30]--[2020-05-28 Thu 14:00] =>  3:30
+    CLOCK: [2020-05-29 Fri 07:30]--[2020-05-29 Fri 10:00] =>  2:30
+    CLOCK: [2020-05-29 Fri 10:30]--[2020-05-29 Fri 16:30] =>  6:00
+    :END:
