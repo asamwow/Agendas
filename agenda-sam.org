@@ -2,11 +2,12 @@
 #+TODO: TODO(t) WAIT(w@/!) | CANCELLED(c@) DONE(d)
 
 * TODO Update ledger
-  SCHEDULED: <2020-03-17 Tue +1w>
+  SCHEDULED: <2020-09-01 Tue ++1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-11 Wed 07:59]
+  :LAST_REPEAT: [2020-08-14 Fri 13:16]
   :END:
 
+  - State "DONE"       from "TODO"       [2020-08-14 Fri 13:16]
   - State "DONE"       from "TODO"       [2020-03-11 Wed 07:59]
   - State "DONE"       from "TODO"       [2020-03-04 Wed 10:46]
   - State "DONE"       from "TODO"       [2020-03-04 Wed 10:43]
@@ -20,12 +21,13 @@
 
 
 * TODO Wash sheets
-  SCHEDULED: <2020-03-07 Sat ++2w>
+  SCHEDULED: <2020-08-21 Fri ++2w>
   :PROPERTIES:
   :LAST_REPEAT: [2019-12-02 Mon 06:54]
   :LOGGING:  DONE(!)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-08-13 Thu 11:00]
   - State "DONE"       from "TODO"       [2020-02-25 Tue 06:17]
   - State "DONE"       from "TODO"       [2020-02-10 Mon 08:54]
   - State "DONE"       from "TODO"       [2020-01-27 Mon 10:11]
@@ -35,46 +37,18 @@
   - State "DONE"       from "TODO"       [2019-12-02 Mon 06:54]
 
 
-* TODO Iron shirts
-  SCHEDULED: <2020-03-21 Sat ++3w>
-  :PROPERTIES:
-  :LOGGING:  DONE(!)
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-03-04 Wed 10:43]
-  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
-
-
-* TODO Meal prep
-  SCHEDULED: <2020-03-14 Sat ++1w>
-  :PROPERTIES:
-  :LAST_REPEAT: [2020-03-09 Mon 08:48]
-  :END:
-
-  - State "DONE"       from "TODO"       [2020-03-09 Mon 08:48]
-  - State "DONE"       from "TODO"       [2020-03-04 Wed 10:44]
-  - State "DONE"       from "TODO"       [2020-02-24 Mon 10:11]
-  - State "DONE"       from "TODO"       [2020-02-17 Mon 08:59]
-  - State "DONE"       from "TODO"       [2020-02-12 Wed 09:07]
-  - State "DONE"       from "TODO"       [2020-02-04 Tue 07:29]
-  - State "DONE"       from "TODO"       [2020-01-27 Mon 10:11]
-  - State "DONE"       from "TODO"       [2020-01-19 Sun 16:47]
-  - State "DONE"       from "TODO"       [2020-01-14 Tue 06:32]
-  - State "DONE"       from "TODO"       [2020-01-06 Mon 09:04]
-  - State "CANCELLED"  from "TODO"       [2019-12-23 Mon 11:40]
-  - State "CANCELLED"  from "TODO"       [2019-12-22 Sun 18:38] \\
-    holiday
-  - State "DONE"       from "TODO"       [2019-12-16 Mon 10:01]
-  - State "DONE"       from "TODO"       [2019-12-09 Mon 08:51]
-
-
 * TODO Gym
-  SCHEDULED: <2020-03-11 Wed +1d>
+  SCHEDULED: <2020-08-14 Fri +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-08-13 Thu 11:01] \\
+    chest and tri
+  - State "DONE"       from "TODO"       [2020-08-12 Wed 11:01] \\
+    swim
+  - State "DONE"       from "TODO"       [2020-08-11 Tue 11:01] \\
+    swim
   - State "DONE"       from "TODO"       [2020-03-10 Tue 15:28] \\
     swimming
   - State "DONE"       from "TODO"       [2020-03-09 Mon 16:27] \\

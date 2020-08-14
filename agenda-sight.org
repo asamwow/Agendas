@@ -4,12 +4,16 @@
 * 2020
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-07-13 Mon 11:00 ++1w>
+   SCHEDULED: <2020-08-10 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-08 Wed 09:49]
+   :LAST_REPEAT: [2020-08-03 Mon 11:05]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-03 Mon 10:00]--[2020-08-03 Mon 10:30] =>  0:30
+   CLOCK: [2020-07-27 Mon 10:00]--[2020-07-27 Mon 10:30] =>  0:30
+   CLOCK: [2020-07-20 Mon 10:00]--[2020-07-20 Mon 10:30] =>  0:30
+   CLOCK: [2020-07-13 Mon 10:00]--[2020-07-13 Mon 10:30] =>  0:30
    CLOCK: [2020-06-29 Mon 15:00]--[2020-06-29 Mon 15:30] =>  0:30
    CLOCK: [2020-06-22 Mon 10:00]--[2020-06-22 Mon 10:30] =>  0:30
    CLOCK: [2020-06-15 Mon 10:00]--[2020-06-15 Mon 10:30] =>  0:30
@@ -22,12 +26,16 @@
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-07-14 Tue 11:00 ++1w>
+   SCHEDULED: <2020-08-11 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-08 Wed 09:50]
+   :LAST_REPEAT: [2020-08-10 Mon 10:34]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-04 Tue 10:00]--[2020-08-04 Tue 10:30] =>  0:30
+   CLOCK: [2020-07-28 Tue 10:00]--[2020-07-28 Tue 10:30] =>  0:30
+   CLOCK: [2020-07-21 Tue 10:00]--[2020-07-21 Tue 10:30] =>  0:30
+   CLOCK: [2020-07-14 Tue 10:00]--[2020-07-14 Tue 10:30] =>  0:30
    CLOCK: [2020-07-07 Tue 10:00]--[2020-07-07 Tue 10:30] =>  0:30
    CLOCK: [2020-06-30 Tue 10:00]--[2020-06-30 Tue 10:30] =>  0:30
    CLOCK: [2020-06-23 Tue 10:00]--[2020-06-23 Tue 10:30] =>  0:30
@@ -41,12 +49,16 @@
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-07-15 Wed ++1w>
+   SCHEDULED: <2020-08-12 Wed ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-08 Wed 09:50]
+   :LAST_REPEAT: [2020-08-10 Mon 10:34]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-05 Wed 10:00]--[2020-08-05 Wed 10:30] =>  0:30
+   CLOCK: [2020-07-29 Wed 10:00]--[2020-07-29 Wed 10:30] =>  0:30
+   CLOCK: [2020-07-22 Wed 10:00]--[2020-07-22 Wed 10:30] =>  0:30
+   CLOCK: [2020-07-15 Wed 10:00]--[2020-07-15 Wed 10:30] =>  0:30
    CLOCK: [2020-07-08 Wed 10:00]--[2020-07-08 Wed 10:30] =>  0:30
    CLOCK: [2020-07-01 Wed 10:00]--[2020-07-01 Wed 10:30] =>  0:30
    CLOCK: [2020-06-24 Wed 10:00]--[2020-06-24 Wed 10:30] =>  0:30
@@ -60,12 +72,16 @@
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-07-16 Thu ++1w>
+   SCHEDULED: <2020-08-13 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-10 Fri 09:14]
+   :LAST_REPEAT: [2020-08-10 Mon 10:34]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-06 Thu 10:00]--[2020-08-06 Thu 10:30] =>  0:30
+   CLOCK: [2020-07-30 Thu 10:00]--[2020-07-30 Thu 10:30] =>  0:30
+   CLOCK: [2020-07-23 Thu 10:00]--[2020-07-23 Thu 10:30] =>  0:30
+   CLOCK: [2020-07-16 Thu 10:00]--[2020-07-16 Thu 10:30] =>  0:30
    CLOCK: [2020-07-09 Thu 10:00]--[2020-07-09 Thu 10:30] =>  0:30
    CLOCK: [2020-07-02 Thu 10:00]--[2020-07-02 Thu 10:30] =>  0:30
    CLOCK: [2020-06-25 Thu 10:00]--[2020-06-25 Thu 10:30] =>  0:30
@@ -80,12 +96,16 @@
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-07-17 Fri ++1w>
+   SCHEDULED: <2020-08-14 Fri ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-10 Fri 09:14]
+   :LAST_REPEAT: [2020-08-10 Mon 10:34]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-07 Fri 10:00]--[2020-08-07 Fri 10:30] =>  0:30
+   CLOCK: [2020-07-31 Fri 10:00]--[2020-07-31 Fri 10:30] =>  0:30
+   CLOCK: [2020-07-24 Fri 10:00]--[2020-07-24 Fri 10:30] =>  0:30
+   CLOCK: [2020-07-17 Fri 10:00]--[2020-07-17 Fri 10:30] =>  0:30
    CLOCK: [2020-07-10 Fri 10:00]--[2020-07-10 Fri 10:30] =>  0:30
    CLOCK: [2020-06-26 Fri 10:00]--[2020-06-26 Fri 10:30] =>  0:30
    CLOCK: [2020-06-19 Fri 10:00]--[2020-06-19 Fri 10:30] =>  0:30
@@ -694,5 +714,216 @@
 
 ** Week 29
 
+#+BEGIN: clocktable :block lastweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-07-20 Mon 10:26], for week 2020-W29.
+| Headline                                  | Time       |          |       |
+|-------------------------------------------+------------+----------+-------|
+| *Total time*                              | *1d 16:00* |          |       |
+|-------------------------------------------+------------+----------+-------|
+| 2020                                      | 1d 16:00   |          |       |
+| \_  Standup Mon                           |            |     0:30 |       |
+| \_  Standup Tue                           |            |     0:30 |       |
+| \_  Standup Wed                           |            |     0:30 |       |
+| \_  Standup Thu                           |            |     0:30 |       |
+| \_  Standup Fri                           |            |     0:30 |       |
+| \_  Week 29                               |            | 1d 13:30 |       |
+| \_    issues #51, #55, #56, #58, #59, #54 |            |          | 10:30 |
+| \_    upload station images               |            |          |  9:30 |
+| \_    station index on icons, service...  |            |          |  3:30 |
+| \_    fix tooltips                        |            |          |  6:00 |
+| \_    vacation                            |            |          |  8:00 |
+#+END:
+
+*** DONE issues #51, #55, #56, #58, #59, #54
+    :LOGBOOK:
+    CLOCK: [2020-07-14 Tue 06:00]--[2020-07-14 Tue 10:00] =>  4:00
+    CLOCK: [2020-07-13 Mon 08:00]--[2020-07-13 Mon 10:00] =>  2:00
+    CLOCK: [2020-07-13 Mon 10:30]--[2020-07-13 Mon 15:00] =>  5:00
+    :END:
+
+*** DONE upload station images
+    :LOGBOOK:
+    CLOCK: [2020-07-14 Tue 10:30]--[2020-07-14 Tue 14:00] =>  3:30
+    CLOCK: [2020-07-15 Wed 10:30]--[2020-07-15 Wed 16:30] =>  6:00
+    :END:
+
+*** DONE station index on icons, service sheets fix
+    :LOGBOOK:
+    CLOCK: [2020-07-15 Wed 06:30]--[2020-07-15 Wed 10:00] =>  3:30
+    :END:
+
+*** DONE fix tooltips
+    :LOGBOOK:
+    CLOCK: [2020-07-16 Thu 07:30]--[2020-07-16 Thu 10:00] =>  2:30
+    CLOCK: [2020-07-16 Thu 10:30]--[2020-07-16 Thu 14:00] =>  3:30
+    :END:
+
+*** vacation
+    :LOGBOOK:
+    CLOCK: [2020-07-17 Fri 10:30]--[2020-07-17 Fri 18:30] =>  8:00
+    :END:
+
+
+** Week 30
+
 #+BEGIN: clocktable :block week :maxlevel 3
+#+CAPTION: Clock summary at [2020-07-26 Sun 10:00], for week 2020-W30.
+| Headline                                       | Time       |          |       |
+|------------------------------------------------+------------+----------+-------|
+| *Total time*                                   | *1d 16:00* |          |       |
+|------------------------------------------------+------------+----------+-------|
+| 2020                                           | 1d 16:00   |          |       |
+| \_  Standup Mon                                |            |     0:30 |       |
+| \_  Standup Tue                                |            |     0:30 |       |
+| \_  Standup Wed                                |            |     0:30 |       |
+| \_  Standup Thu                                |            |     0:30 |       |
+| \_  Standup Fri                                |            |     0:30 |       |
+| \_  Week 30                                    |            | 1d 13:30 |       |
+| \_    ras pi research and dev: IO, netctl,...  |            |          | 12:00 |
+| \_    add and configure drop user on server... |            |          |  6:00 |
+| \_    key based authentication on server       |            |          |  7:00 |
+| \_    drop measurement sql table and report... |            |          |  6:00 |
+| \_    remove extra stations not on map         |            |          |  2:00 |
+| \_    "drop is connected" local post request   |            |          |  4:30 |
+#+END:
+
+*** TODO ras pi research and dev: IO, netctl, boot media, systemd, etc
+    :LOGBOOK:
+    CLOCK: [2020-07-26 Sun 10:00]--[2020-07-26 Sun 16:00] =>  6:00
+    CLOCK: [2020-07-25 Sat 13:00]--[2020-07-25 Sat 14:30] =>  1:30
+    CLOCK: [2020-07-20 Mon 08:00]--[2020-07-20 Mon 10:00] =>  2:00
+    CLOCK: [2020-07-20 Mon 10:30]--[2020-07-20 Mon 13:00] =>  2:30
+    :END:
+
+*** DONE add and configure drop user on server and database
+    :LOGBOOK:
+    CLOCK: [2020-07-20 Mon 13:00]--[2020-07-20 Mon 15:00] =>  2:30
+    CLOCK: [2020-07-21 Tue 12:00]--[2020-07-21 Tue 16:00] =>  4:00
+    :END:
+
+*** DONE key based authentication on server
+    :LOGBOOK:
+    CLOCK: [2020-07-22 Wed 06:00]--[2020-07-22 Wed 10:00] =>  4:00
+    CLOCK: [2020-07-22 Wed 10:30]--[2020-07-22 Wed 13:30] =>  3:00
+    :END:
+
+*** DONE drop measurement sql table and report queries
+    :LOGBOOK:
+    CLOCK: [2020-07-22 Wed 11:30]--[2020-07-22 Wed 14:30] =>  3:00
+    CLOCK: [2020-07-23 Thu 07:30]--[2020-07-23 Thu 10:00] =>  2:30
+    CLOCK: [2020-07-23 Thu 10:30]--[2020-07-23 Thu 11:00] =>  0:30
+    :END:
+
+*** TODO remove extra stations not on map
+    :LOGBOOK:
+    CLOCK: [2020-07-23 Thu 11:00]--[2020-07-23 Thu 13:00] =>  2:00
+    :END:
+
+*** TODO "drop is connected" local post request
+    :LOGBOOK:
+    CLOCK: [2020-07-24 Fri 10:30]--[2020-07-24 Fri 15:00] =>  4:30
+    :END:
+
+
+** Week 31
+
+#+BEGIN: clocktable :block lastweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-08-03 Mon 11:17], for week 2020-W31.
+| Headline                                      | Time       |          |         |
+|-----------------------------------------------+------------+----------+---------|
+| *Total time*                                  | *1d 16:00* |          |         |
+|-----------------------------------------------+------------+----------+---------|
+| 2020                                          | 1d 16:00   |          |         |
+| \_  Standup Mon                               |            |     0:30 |         |
+| \_  Standup Tue                               |            |     0:30 |         |
+| \_  Standup Wed                               |            |     0:30 |         |
+| \_  Standup Thu                               |            |     0:30 |         |
+| \_  Standup Fri                               |            |     0:30 |         |
+| \_  Week 30                                   |            | 1d 13:30 |         |
+| \_    ras pi research and dev: IO, netctl,... |            |          | 1d 7:30 |
+| \_    display active stations                 |            |          |    4:00 |
+| \_    station repair records                  |            |          |    2:00 |
+#+END:
+
+*** DONE ras pi research and dev: IO, netctl, boot media, systemd, etc
+    :LOGBOOK:
+    CLOCK: [2020-07-31 Fri 10:30]--[2020-07-31 Fri 12:30] =>  2:00
+    CLOCK: [2020-07-31 Fri 06:30]--[2020-07-31 Fri 10:00] =>  3:30
+    CLOCK: [2020-07-30 Thu 10:30]--[2020-07-30 Thu 13:00] =>  2:30
+    CLOCK: [2020-07-30 Thu 07:00]--[2020-07-30 Thu 10:00] =>  3:00
+    CLOCK: [2020-07-29 Wed 10:30]--[2020-07-29 Wed 16:00] =>  5:30
+    CLOCK: [2020-07-29 Wed 08:30]--[2020-07-29 Wed 10:00] =>  1:30
+    CLOCK: [2020-07-28 Tue 10:30]--[2020-07-28 Tue 14:30] =>  4:00
+    CLOCK: [2020-07-28 Tue 07:00]--[2020-07-28 Tue 10:00] =>  3:00
+    CLOCK: [2020-07-27 Mon 10:30]--[2020-07-27 Mon 17:00] =>  6:30
+    :END:
+
+*** DONE display active stations
+    :LOGBOOK:
+    CLOCK: [2020-07-31 Fri 12:30]--[2020-07-31 Fri 14:30] =>  2:00
+    CLOCK: [2020-08-02 Sun 12:00]--[2020-08-02 Sun 14:00] =>  2:00
+    :END:
+
+*** DONE station repair records
+    :LOGBOOK:
+    CLOCK: [2020-08-02 Sun 14:00]--[2020-08-02 Sun 16:00] =>  2:00
+    :END:
+
+
+** Week 32
+
+#+BEGIN: clocktable :block lastweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-08-10 Mon 10:44], for week 2020-W32.
+| Headline                                    | Time       |          |       |
+|---------------------------------------------+------------+----------+-------|
+| *Total time*                                | *1d 16:00* |          |       |
+|---------------------------------------------+------------+----------+-------|
+| 2020                                        | 1d 16:00   |          |       |
+| \_  Standup Mon                             |            |     0:30 |       |
+| \_  Standup Tue                             |            |     0:30 |       |
+| \_  Standup Wed                             |            |     0:30 |       |
+| \_  Standup Thu                             |            |     0:30 |       |
+| \_  Standup Fri                             |            |     0:30 |       |
+| \_  Week 32                                 |            | 1d 13:30 |       |
+| \_    View Repair Sheets                    |            |          |  3:00 |
+| \_    Upload service and repair sheets      |            |          |  8:00 |
+| \_    log emails                            |            |          |  1:30 |
+| \_    send user confirmation to Brennan     |            |          |  3:00 |
+| \_    repair/alteration request tracking... |            |          | 22:00 |
+#+END:
+
+*** DONE View Repair Sheets
+    :LOGBOOK:
+    CLOCK: [2020-08-03 Mon 07:00]--[2020-08-03 Mon 10:00] =>  3:00
+    :END:
+
+*** DONE Upload service and repair sheets
+    :LOGBOOK:
+    CLOCK: [2020-08-04 Tue 10:30]--[2020-08-04 Tue 16:00] =>  5:30
+    CLOCK: [2020-08-05 Wed 07:30]--[2020-08-05 Wed 10:00] =>  2:30
+    :END:
+
+*** DONE log emails
+    :LOGBOOK:
+    CLOCK: [2020-08-03 Mon 10:30]--[2020-08-03 Mon 12:00] =>  1:30
+    :END:
+
+*** DONE send user confirmation to Brennan
+    :LOGBOOK:
+    CLOCK: [2020-08-04 Tue 07:00]--[2020-08-04 Tue 10:00] =>  3:00
+    :END:
+
+*** DONE repair/alteration request tracking system
+    :LOGBOOK:
+    CLOCK: [2020-08-05 Wed 10:30]--[2020-08-05 Wed 15:00] =>  4:30
+    CLOCK: [2020-08-06 Thu 06:30]--[2020-08-06 Thu 10:00] =>  3:30
+    CLOCK: [2020-08-06 Thu 10:30]--[2020-08-06 Thu 17:30] =>  7:00
+    CLOCK: [2020-08-07 Fri 07:30]--[2020-08-07 Fri 10:00] =>  2:00
+    CLOCK: [2020-08-07 Fri 10:30]--[2020-08-07 Fri 15:00] =>  4:30
+    :END:
+
+
+** Week 33
+
+#+BEGIN: clocktable :block lastweek :maxlevel 3
 #+END:
