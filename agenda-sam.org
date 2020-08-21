@@ -38,11 +38,27 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-08-14 Fri +1d>
+  SCHEDULED: <2020-08-22 Sat +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-08-21 Fri 06:56] \\
+    travel
+  - State "DONE"       from "TODO"       [2020-08-21 Fri 06:56] \\
+    biked
+  - State "DONE"       from "TODO"       [2020-08-21 Fri 06:56] \\
+    hike
+  - State "DONE"       from "TODO"       [2020-08-21 Fri 06:55] \\
+    back and bi
+  - State "DONE"       from "TODO"       [2020-08-18 Tue 07:51] \\
+    swim
+  - State "DONE"       from "TODO"       [2020-08-18 Tue 07:51] \\
+    rest
+  - State "DONE"       from "TODO"       [2020-08-18 Tue 07:51] \\
+    bike
+  - State "DONE"       from "TODO"       [2020-08-18 Tue 07:51] \\
+    legs and shoulders
   - State "DONE"       from "TODO"       [2020-08-13 Thu 11:01] \\
     chest and tri
   - State "DONE"       from "TODO"       [2020-08-12 Wed 11:01] \\
