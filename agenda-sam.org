@@ -38,11 +38,17 @@
 
 
 * TODO Gym
-  SCHEDULED: <2020-08-22 Sat +1d>
+  SCHEDULED: <2020-08-25 Tue +1d>
   :PROPERTIES:
   :LOGGING:  DONE(@)
   :END:
 
+  - State "DONE"       from "TODO"       [2020-09-13 Sun 07:38] \\
+    missed entries: several back, shoulders, and chest workouts, as well as woodcutting
+  - State "DONE"       from "TODO"       [2020-08-23 Sun 22:01] \\
+    legs
+  - State "DONE"       from "TODO"       [2020-08-22 Sat 13:57] \\
+    chest and shoulders
   - State "DONE"       from "TODO"       [2020-08-21 Fri 06:56] \\
     travel
   - State "DONE"       from "TODO"       [2020-08-21 Fri 06:56] \\

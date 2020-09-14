@@ -4,12 +4,14 @@
 * 2020
 
 ** TODO Standup Mon
-   SCHEDULED: <2020-08-17 Mon 11:00 ++1w>
+   SCHEDULED: <2020-09-14 Mon 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-16 Sun 16:54]
+   :LAST_REPEAT: [2020-09-07 Mon 17:48]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-24 Mon 09:00]--[2020-08-24 Mon 09:30] =>  0:30
+   CLOCK: [2020-08-17 Mon 10:00]--[2020-08-17 Mon 10:30] =>  0:30
    CLOCK: [2020-08-10 Mon 10:00]--[2020-08-10 Mon 10:30] =>  0:30
    CLOCK: [2020-08-03 Mon 10:00]--[2020-08-03 Mon 10:30] =>  0:30
    CLOCK: [2020-07-27 Mon 10:00]--[2020-07-27 Mon 10:30] =>  0:30
@@ -27,12 +29,16 @@
    :END:
 
 ** TODO Standup Tue
-   SCHEDULED: <2020-08-18 Tue 11:00 ++1w>
+   SCHEDULED: <2020-09-15 Tue 11:00 ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-16 Sun 16:54]
+   :LAST_REPEAT: [2020-09-08 Tue 11:40]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-09-08 Tue 09:00]--[2020-09-08 Tue 09:30] =>  0:30
+   CLOCK: [2020-09-01 Tue 09:00]--[2020-09-01 Tue 09:30] =>  0:30
+   CLOCK: [2020-08-25 Tue 09:00]--[2020-08-25 Tue 09:30] =>  0:30
+   CLOCK: [2020-08-18 Tue 10:00]--[2020-08-18 Tue 10:30] =>  0:30
    CLOCK: [2020-08-11 Tue 10:00]--[2020-08-11 Tue 10:30] =>  0:30
    CLOCK: [2020-08-04 Tue 10:00]--[2020-08-04 Tue 10:30] =>  0:30
    CLOCK: [2020-07-28 Tue 10:00]--[2020-07-28 Tue 10:30] =>  0:30
@@ -51,12 +57,16 @@
    :END:
 
 ** TODO Standup Wed
-   SCHEDULED: <2020-08-19 Wed ++1w>
+   SCHEDULED: <2020-09-16 Wed ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-16 Sun 16:54]
+   :LAST_REPEAT: [2020-09-13 Sun 07:53]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-09-09 Wed 09:00]--[2020-09-09 Wed 09:30] =>  0:30
+   CLOCK: [2020-09-02 Wed 09:00]--[2020-09-02 Wed 09:30] =>  0:30
+   CLOCK: [2020-08-26 Wed 09:00]--[2020-08-26 Wed 09:30] =>  0:30
+   CLOCK: [2020-08-19 Wed 10:00]--[2020-08-19 Wed 10:30] =>  0:30
    CLOCK: [2020-08-12 Wed 10:00]--[2020-08-12 Wed 10:30] =>  0:30
    CLOCK: [2020-08-05 Wed 10:00]--[2020-08-05 Wed 10:30] =>  0:30
    CLOCK: [2020-07-29 Wed 10:00]--[2020-07-29 Wed 10:30] =>  0:30
@@ -75,12 +85,16 @@
    :END:
 
 ** TODO Standup Thu
-   SCHEDULED: <2020-08-20 Thu ++1w>
+   SCHEDULED: <2020-09-17 Thu ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-16 Sun 16:54]
+   :LAST_REPEAT: [2020-09-13 Sun 07:53]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-09-10 Thu 09:00]--[2020-09-10 Thu 09:30] =>  0:30
+   CLOCK: [2020-09-03 Thu 09:00]--[2020-09-03 Thu 09:30] =>  0:30
+   CLOCK: [2020-08-27 Thu 09:00]--[2020-08-27 Thu 09:30] =>  0:30
+   CLOCK: [2020-08-20 Thu 10:00]--[2020-08-20 Thu 10:30] =>  0:30
    CLOCK: [2020-08-13 Thu 10:00]--[2020-08-13 Thu 10:30] =>  0:30
    CLOCK: [2020-08-06 Thu 10:00]--[2020-08-06 Thu 10:30] =>  0:30
    CLOCK: [2020-07-30 Thu 10:00]--[2020-07-30 Thu 10:30] =>  0:30
@@ -100,12 +114,15 @@
    :END:
 
 ** TODO Standup Fri
-   SCHEDULED: <2020-08-21 Fri ++1w>
+   SCHEDULED: <2020-09-18 Fri ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-16 Sun 16:55]
+   :LAST_REPEAT: [2020-09-13 Sun 07:43]
    :LOGGING:  NONE
    :END:
    :LOGBOOK:
+   CLOCK: [2020-09-11 Fri 09:00]--[2020-09-11 Fri 09:30] =>  0:30
+   CLOCK: [2020-08-28 Fri 09:00]--[2020-08-28 Fri 09:30] =>  0:30
+   CLOCK: [2020-08-21 Fri 10:00]--[2020-08-21 Fri 10:30] =>  0:30
    CLOCK: [2020-08-14 Fri 10:00]--[2020-08-14 Fri 10:30] =>  0:30
    CLOCK: [2020-08-07 Fri 10:00]--[2020-08-07 Fri 10:30] =>  0:30
    CLOCK: [2020-07-31 Fri 10:00]--[2020-07-31 Fri 10:30] =>  0:30
@@ -997,23 +1014,231 @@
 ** Week 34
 
 #+BEGIN: clocktable :block week :maxlevel 3
+#+CAPTION: Clock summary at [2020-08-23 Sun 21:34], for week 2020-W34.
+| Headline                                       | Time       |          |      |
+|------------------------------------------------+------------+----------+------|
+| *Total time*                                   | *1d 16:00* |          |      |
+|------------------------------------------------+------------+----------+------|
+| 2020                                           | 1d 16:00   |          |      |
+| \_  Standup Mon                                |            |     0:30 |      |
+| \_  Standup Tue                                |            |     0:30 |      |
+| \_  Standup Wed                                |            |     0:30 |      |
+| \_  Standup Thu                                |            |     0:30 |      |
+| \_  Standup Fri                                |            |     0:30 |      |
+| \_  Week 34                                    |            | 1d 13:30 |      |
+| \_    filter by drop on service entries search |            |          | 2:30 |
+| \_    authorize email sender                   |            |          | 6:30 |
+| \_    filter by keyword on service entries...  |            |          | 5:00 |
+| \_    filter by station with drop down list... |            |          | 7:00 |
+| \_    manage drop deployment and data intake   |            |          | 6:30 |
+| \_    meeting                                  |            |          | 1:00 |
+| \_    vacation                                 |            |          | 9:00 |
 #+END:
 
-*** TODO filter by drop on service entries search
+*** DONE filter by drop on service entries search
     :LOGBOOK:
     CLOCK: [2020-08-17 Mon 08:00]--[2020-08-17 Mon 10:00] =>  2:00
-    CLOCK: [2020-08-17 Mon 10:30]--[2020-08-17 Mon 14:00] =>  2:00
+    CLOCK: [2020-08-17 Mon 10:30]--[2020-08-17 Mon 11:00] =>  0:30
     :END:
 
-*** TODO authorize email sender
+*** DONE authorize email sender
+    :LOGBOOK:
+    CLOCK: [2020-08-17 Mon 11:00]--[2020-08-17 Mon 14:00] =>  3:00
+    CLOCK: [2020-08-18 Tue 06:30]--[2020-08-18 Tue 10:00] =>  3:30
+    :END:
 
-*** TODO filter by keyword on service entries search
+*** DONE filter by keyword on service entries search
+    :LOGBOOK:
+    CLOCK: [2020-08-18 Tue 10:30]--[2020-08-18 Tue 12:30] =>  2:00
+    CLOCK: [2020-08-19 Wed 07:00]--[2020-08-19 Wed 10:00] =>  3:00
+    :END:
 
-*** TODO filter by station with drop down list on service entries search
+*** DONE filter by station with drop down list on service entries search
+    :LOGBOOK:
+    CLOCK: [2020-08-19 Wed 10:30]--[2020-08-19 Wed 14:30] =>  4:00
+    CLOCK: [2020-08-20 Thu 07:00]--[2020-08-20 Thu 10:00] =>  3:00
+    :END:
 
 *** TODO manage drop deployment and data intake
+    :LOGBOOK:
+    CLOCK: [2020-08-20 Thu 10:30]--[2020-08-20 Thu 14:00] =>  3:30
+    CLOCK: [2020-08-21 Fri 07:00]--[2020-08-21 Fri 10:00] =>  3:00
+    :END:
 
 *** DONE meeting
     :LOGBOOK:
     CLOCK: [2020-08-19 Wed 16:00]--[2020-08-19 Wed 17:00] =>  1:00
+    :END:
+
+*** vacation
+    :LOGBOOK:
+    CLOCK: [2020-08-23 Sun 8:00]--[2020-08-23 Sun 17:00] =>  9:00
+    :END:
+
+
+** Week 35
+
+#+BEGIN: clocktable :block lastweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-08-31 Mon 09:38], for week 2020-W35.
+| Headline                     | Time       |          |         |
+|------------------------------+------------+----------+---------|
+| *Total time*                 | *1d 16:00* |          |         |
+|------------------------------+------------+----------+---------|
+| 2020                         | 1d 16:00   |          |         |
+| \_  Standup Mon              |            |     0:30 |         |
+| \_  Standup Tue              |            |     0:30 |         |
+| \_  Standup Wed              |            |     0:30 |         |
+| \_  Standup Thu              |            |     0:30 |         |
+| \_  Standup Fri              |            |     0:30 |         |
+| \_  Week 35                  |            | 1d 13:30 |         |
+| \_    Measurements Table/CSV |            |          | 1d 2:00 |
+| \_    Measurements Graphs    |            |          |   11:30 |
+#+END:
+
+*** DONE Measurements Table/CSV
+    :LOGBOOK:
+    CLOCK: [2020-08-24 Mon 06:30]--[2020-08-24 Mon 09:00] =>  2:30
+    CLOCK: [2020-08-24 Mon 09:30]--[2020-08-24 Mon 12:30] =>  3:00
+    CLOCK: [2020-08-25 Tue 07:00]--[2020-08-25 Tue 09:00] =>  2:00
+    CLOCK: [2020-08-25 Tue 09:30]--[2020-08-25 Tue 12:00] =>  3:00
+    CLOCK: [2020-08-26 Wed 06:30]--[2020-08-26 Wed 09:00] =>  2:30
+    CLOCK: [2020-08-26 Wed 09:30]--[2020-08-26 Wed 14:00] =>  3:00
+    CLOCK: [2020-08-27 Thu 06:30]--[2020-08-27 Thu 09:00] =>  2:30
+    CLOCK: [2020-08-27 Thu 09:30]--[2020-08-27 Thu 13:30] =>  4:00
+    CLOCK: [2020-08-28 Fri 06:30]--[2020-08-28 Fri 09:00] =>  2:30
+    :END:
+
+*** DONE Measurements Graphs
+    :LOGBOOK:
+    CLOCK: [2020-08-28 Fri 09:30]--[2020-08-28 Fri 14:00] =>  4:30
+    CLOCK: [2020-08-29 Sat 06:30]--[2020-08-29 Sat 10:00] =>  3:30
+    CLOCK: [2020-08-30 Sun 06:30]--[2020-08-30 Sun 10:00] =>  3:30
+    :END:
+
+
+** Week 36
+
+#+BEGIN: clocktable :block lastweek :maxlevel 3
+#+CAPTION: Clock summary at [2020-09-07 Mon 18:11], for week 2020-W36.
+| Headline                                       | Time       |          |       |
+|------------------------------------------------+------------+----------+-------|
+| *Total time*                                   | *1d 16:00* |          |       |
+|------------------------------------------------+------------+----------+-------|
+| 2020                                           | 1d 16:00   |          |       |
+| \_  Standup Tue                                |            |     0:30 |       |
+| \_  Standup Wed                                |            |     0:30 |       |
+| \_  Standup Thu                                |            |     0:30 |       |
+| \_  Week 36                                    |            | 1d 14:30 |       |
+| \_    pretty up charts                         |            |          |  2:30 |
+| \_    select specific drops for measurement... |            |          | 11:30 |
+| \_    remove time checkbox                     |            |          |  1:00 |
+| \_    backup database                          |            |          |  4:30 |
+| \_    seed random data                         |            |          |  7:00 |
+| \_    view drops as seperate graphs            |            |          |  9:00 |
+| \_    organize line graph legend               |            |          |  0:30 |
+| \_    fix "3/3 drops"                          |            |          |  2:30 |
+#+END:
+
+*** DONE pretty up charts
+    :LOGBOOK:
+    CLOCK: [2020-08-31 Mon 6:30]--[2020-08-31 Mon 9:00] =>  2:30
+    :END:
+
+*** DONE select specific drops for measurement output
+    :LOGBOOK:
+    CLOCK: [2020-08-31 Mon 9:30]--[2020-08-31 Mon 15:00] =>  5:30
+    CLOCK: [2020-09-01 Tue 7:30]--[2020-09-01 Tue 9:00] =>  1:30
+    CLOCK: [2020-09-01 Tue 9:30]--[2020-09-01 Tue 14:00] =>  4:30
+    :END:
+
+*** DONE remove time checkbox
+    :LOGBOOK:
+    CLOCK: [2020-09-02 Wed 8:00]--[2020-09-02 Wed 9:00] =>  1:00
+    :END:
+
+*** DONE backup database
+    :LOGBOOK:
+    CLOCK: [2020-09-02 Wed 9:30]--[2020-09-02 Wed 14:00] =>  4:30
+    :END:
+
+*** OUT seed random data
+    :LOGBOOK:
+    CLOCK: [2020-09-04 Fri 9:00]--[2020-09-04 Fri 12:00] =>  3:00
+    CLOCK: [2020-09-05 Sat 7:00]--[2020-09-05 Sat 9:00] =>  2:00
+    CLOCK: [2020-09-06 Sun 7:00]--[2020-09-06 Sun 9:00] =>  2:00
+    :END:
+
+*** DONE view drops as seperate graphs
+    :LOGBOOK:
+    CLOCK: [2020-09-03 Thu 12:30]--[2020-09-03 Thu 19:00] =>  6:30
+    CLOCK: [2020-09-04 Fri 6:30]--[2020-09-04 Fri 9:00] =>  2:30
+    :END:
+
+*** CANCELLED organize line graph legend
+    :LOGBOOK:
+    CLOCK: [2020-09-03 Thu 9:30]--[2020-09-03 Thu 10:00] =>  0:30
+    :END:
+
+*** DONE fix "3/3 drops"
+    :LOGBOOK:
+    CLOCK: [2020-09-03 Thu 10:00]--[2020-09-03 Thu 12:30] =>  3:00
+    :END:
+
+
+** Week 37
+
+#+BEGIN: clocktable :block week :maxlevel 3
+#+CAPTION: Clock summary at [2020-09-13 Sun 07:53], for week 2020-W37.
+| Headline                              | Time       |          |       |
+|---------------------------------------+------------+----------+-------|
+| *Total time*                          | *1d 16:00* |          |       |
+|---------------------------------------+------------+----------+-------|
+| 2020                                  | 1d 16:00   |          |       |
+| \_  Standup Tue                       |            |     0:30 |       |
+| \_  Standup Wed                       |            |     0:30 |       |
+| \_  Standup Thu                       |            |     0:30 |       |
+| \_  Standup Fri                       |            |     0:30 |       |
+| \_  Week 37                           |            | 1d 14:00 |       |
+| \_    holiday                         |            |          |  8:00 |
+| \_    seed random data                |            |          |  9:30 |
+| \_    custom chart legends            |            |          | 15:00 |
+| \_    station selector optimizations  |            |          |  0:30 |
+| \_    center and fix runoff on legend |            |          |  1:30 |
+| \_    loading screens                 |            |          |  3:30 |
+#+END:
+
+*** holiday
+    :LOGBOOK:
+    CLOCK: [2020-09-07 Mon 09:00]--[2020-09-07 Mon 17:00] =>  8:00
+    :END:
+
+*** DONE seed random data
+    :LOGBOOK:
+    CLOCK: [2020-09-09 Wed 07:00]--[2020-09-09 Wed 09:00] =>  2:00
+    CLOCK: [2020-09-08 Tue 09:30]--[2020-09-08 Tue 14:30] =>  5:00
+    CLOCK: [2020-09-08 Tue 06:30]--[2020-09-08 Tue 09:00] =>  2:30
+    :END:
+
+*** DONE custom chart legends
+    :LOGBOOK:
+    CLOCK: [2020-09-11 Fri 11:00]--[2020-09-11 Fri 14:00] =>  3:00
+    CLOCK: [2020-09-11 Fri 07:00]--[2020-09-11 Fri 09:00] =>  2:00
+    CLOCK: [2020-09-10 Thu 10:00]--[2020-09-10 Thu 12:00] =>  2:00
+    CLOCK: [2020-09-10 Thu 07:30]--[2020-09-10 Thu 09:00] =>  1:30
+    CLOCK: [2020-09-09 Wed 09:30]--[2020-09-09 Wed 16:00] =>  6:30
+    :END:
+
+*** DONE station selector optimizations
+    :LOGBOOK:
+    CLOCK: [2020-09-10 Thu 09:30]--[2020-09-10 Thu 10:00] =>  0:30
+    :END:
+
+*** DONE center and fix runoff on legend
+    :LOGBOOK:
+    CLOCK: [2020-09-11 Fri 09:30]--[2020-09-11 Fri 11:00] =>  1:30
+    :END:
+
+*** OUT loading screens
+    :LOGBOOK:
+    CLOCK: [2020-09-12 Sat 8:00]--[2020-09-12 Sat 11:30] =>  3:30
     :END:
